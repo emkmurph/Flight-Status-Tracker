@@ -1,0 +1,1274 @@
+carrier,flight_number,from city,gate,status,scheduled_time,updated_time
+American Airlines,3401,Moline| IL,Term T3 - G20,Delayed,2020-07-23 07:34:00,2020-07-23 11:05:00
+Air New Zealand,2424,Greenville| SC,Term 1 - B6,Arrived,2020-07-23 08:10:00,2020-07-23 09:28:00
+United Airlines,5638,Greenville| SC,Term 1 - B6,Arrived,2020-07-23 08:10:00,2020-07-23 09:28:00
+All Nippon Airways,7729,Greenville| SC,Term 1 - B6,Arrived,2020-07-23 08:10:00,2020-07-23 09:28:00
+Cape Air,1146,Quincy| IL,Term 3,Arrived,2020-07-23 08:38:00,2020-07-23 08:52:00
+American Airlines,3439,Portland| ME,Term T3 - L10B,Arrived,2020-07-23 08:41:00,2020-07-23 08:46:00
+American Airlines,3203,Traverse City| MI,Term T3 - G19,Arrived,2020-07-23 08:45:00,2020-07-23 08:40:00
+Qantas Airways,3263,Cincinnati| OH,Term T3 - G21,Arrived,2020-07-23 08:47:00,2020-07-23 08:39:00
+WestJet Airlines,7913,New York| NY,Term 2 - E14,Arrived,2020-07-23 08:47:00,2020-07-23 08:45:00
+Qatar Airways,2403,Austin| TX,Term T3 - H9,Arrived,2020-07-23 08:51:00,2020-07-23 08:44:00
+British Airways,5090,Austin| TX,Term T3 - H9,Arrived,2020-07-23 08:51:00,2020-07-23 08:44:00
+Qatar Airways,2435,Indianapolis| IN,Term T3 - L8,Arrived,2020-07-23 08:53:00,2020-07-23 08:44:00
+Qantas Airways,4457,Indianapolis| IN,Term T3 - L8,Arrived,2020-07-23 08:53:00,2020-07-23 08:44:00
+Qatar Airways,2797,Tampa| FL,Term T3 - H11A,Arrived,2020-07-23 08:55:00,2020-07-23 08:35:00
+Qantas Airways,4694,Tampa| FL,Term T3 - H11A,Arrived,2020-07-23 08:55:00,2020-07-23 08:35:00
+American Airlines,2911,New York| NY,Term T3 - K19,Arrived,2020-07-23 08:57:00,2020-07-23 08:51:00
+British Airways,6855,New York| NY,Term T3 - K19,Arrived,2020-07-23 08:57:00,2020-07-23 08:51:00
+American Airlines,1509,Boston| MA,Term T3 - K4,Arrived,2020-07-23 09:01:00,2020-07-23 08:43:00
+Qantas Airways,4882,Detroit| MI,Term T3 - G11,Arrived,2020-07-23 09:03:00,2020-07-23 08:43:00
+Alaska Airlines,4152,Grand Rapids| MI,Term T3 - L23,Arrived,2020-07-23 09:04:00,2020-07-23 08:47:00
+Qantas Airways,3270,Toronto,Term T3 - L20,Landed,2020-07-23 09:07:00,2020-07-23 09:25:00
+Alaska Airlines,4017,Toronto,Term T3 - L20,Landed,2020-07-23 09:07:00,2020-07-23 09:25:00
+Alaska Airlines,4575,Atlanta| GA,Term T3 - H4,Arrived,2020-07-23 09:09:00,2020-07-23 09:01:00
+British Airways,5650,Springfield| MO,Term T3 - G8,Arrived,2020-07-23 09:09:00,2020-07-23 08:48:00
+British Airways,1905,Wilkes-Barre/Scranton| PA,Term T3 - L1B,Arrived,2020-07-23 09:11:00,2020-07-23 08:56:00
+American Airlines,3442,Champaign/Urbana| IL,Term T3 - G14A,Arrived,2020-07-23 09:12:00,2020-07-23 09:07:00
+American Airlines,3436,Greensboro| NC,Term T3 - G10,Arrived,2020-07-23 09:14:00,2020-07-23 08:49:00
+Alaska Airlines,6050,Louisville| KY,Term T3 - L22,Arrived,2020-07-23 09:15:00,2020-07-23 08:55:00
+Alaska Airlines,4342,San Antonio| TX,Term T3 - L3,Landed,2020-07-23 09:20:00,2020-07-23 08:58:00
+Air Canada,7701,Toronto,Term 2,Arrived,2020-07-23 09:20:00,2020-07-23 09:05:00
+Spirit Airlines,200,Houston| TX,Term 3 - L11,Arrived,2020-07-23 09:24:00,2020-07-23 09:05:00
+Delta Air Lines,4895,Detroit| MI,Term 2 - E9,Arrived,2020-07-23 09:25:00,2020-07-23 09:16:00
+American Airlines,2454,Philadelphia| PA,Term T3 - K10,Arrived,2020-07-23 09:27:00,2020-07-23 08:57:00
+Japan Airlines,10,Tokyo,Term 5,Arrived,2020-07-23 09:45:00,2020-07-23 09:28:00
+American Airlines,3102,Montreal,Term T3 - G9,Arrived,2020-07-23 09:50:00,2020-07-23 09:20:00
+Delta Air Lines,3610,Minneapolis| MN,Term 2 - E17,Arrived,2020-07-23 09:50:00,2020-07-23 09:30:00
+Virgin Atlantic,4436,Minneapolis| MN,Term 2 - E17,Arrived,2020-07-23 09:50:00,2020-07-23 09:30:00
+Qatar Airways,8111,Milano, ,Landed,2020-07-23 10:15:00,2020-07-23 09:27:00
+Hawaiian Airlines,2439,Boston| MA,Term 3 - G2,In Air,2020-07-23 10:19:00,2020-07-23 09:42:00
+American Airlines,2080,Charlotte| NC,Term T3 - K5,In Air,2020-07-23 10:38:00,2020-07-23 10:30:00
+American Airlines,2887,Washington| DC,Term T3 - K20,In Air,2020-07-23 10:40:00,2020-07-23 09:58:00
+Volaris,2141,Denver| CO,Term 5 - M1,In Air,2020-07-23 10:45:00,2020-07-23 10:09:00
+Spirit Airlines,728,Tampa| FL,Term 3 - L9,In Air,2020-07-23 10:53:00,2020-07-23 10:30:00
+Gulf Air,6478,Phoenix| AZ,Term T3 - K6,In Air,2020-07-23 10:55:00,2020-07-23 10:18:00
+British Airways,1542,London,Term T5 - M13,In Air,2020-07-23 11:05:00,2020-07-23 10:52:00
+Finnair,5787,London,Term T5 - M13,In Air,2020-07-23 11:05:00,2020-07-23 10:52:00
+El Al Israel Airlines,8046,London,Term T5 - M13,In Air,2020-07-23 11:05:00,2020-07-23 10:52:00
+Volaris,2196,Miami| FL,Term 5 - M2,In Air,2020-07-23 11:24:00,2020-07-23 10:53:00
+Air Choice One,2106,Mason City| IA,Term 3,Scheduled,2020-07-23 11:30:00,
+Silk Way West Airlines,785,Baku, ,No Recent Info - Call Airline,2020-07-23 12:00:00,
+American Airlines,1033,Washington| DC,Term T3 - K12,Scheduled,2020-07-23 12:06:00,2020-07-23 11:54:00
+American Airlines,4246,Kansas City| MO,Term T3 - H3A,Scheduled,2020-07-23 12:15:00,2020-07-23 12:14:00
+Cape Air,1153,Quincy| IL,Term 3,Scheduled,2020-07-23 12:19:00,
+Qantas Airways,3191,San Francisco| CA,Term T3 - K5,Departed,2020-07-23 12:19:00,2020-07-23 13:49:00
+American Airlines,2431,Los Angeles| CA,Term T3 - H14,In Air,2020-07-23 12:21:00,2020-07-23 11:54:00
+Qatar Airways,2850,Columbus| OH,Term T3 - L24,Scheduled,2020-07-23 12:22:00,2020-07-23 12:22:00
+British Airways,4594,Columbus| OH,Term T3 - L24,Scheduled,2020-07-23 12:22:00,2020-07-23 12:22:00
+British Airways,4925,Lexington| KY,Term T3 - G20,Scheduled,2020-07-23 12:23:00,2020-07-23 12:23:00
+American Airlines,2796,Miami| FL,Term T3 - K9,In Air,2020-07-23 12:25:00,2020-07-23 11:57:00
+Cargolux Airlines,4314,Hong Kong, ,LandedDiversion,2020-07-23 12:25:00,
+Qatar Airways,9269,Miami| FL,Term T3 - K9,In Air,2020-07-23 12:25:00,2020-07-23 11:57:00
+Qantas Airways,3305,Toronto,Term T3 - L2A,Scheduled,2020-07-23 12:26:00,2020-07-23 12:33:00
+Alaska Airlines,4036,Toronto,Term T3 - L2A,Scheduled,2020-07-23 12:26:00,2020-07-23 12:33:00
+Qatar Airways,2438,Nashville| TN,Term T3 - H6,Scheduled,2020-07-23 12:27:00,2020-07-23 12:34:00
+British Airways,4374,Nashville| TN,Term T3 - H6,Scheduled,2020-07-23 12:27:00,2020-07-23 12:34:00
+Alaska Airlines,4648,Milwaukee| WI,Term T3 - G13,Scheduled,2020-07-23 12:28:00,2020-07-23 12:28:00
+United Airlines,2811,Amsterdam,Term 1 - C10,In Air,2020-07-23 12:30:00,2020-07-23 12:00:00
+American Airlines,1458,San Diego| CA,Term T3 - K15,In Air,2020-07-23 12:31:00,2020-07-23 11:53:00
+American Airlines,3474,State College| PA,Term T3 - G21,Scheduled,2020-07-23 12:33:00,2020-07-23 12:42:00
+British Airways,5126,Green Bay| WI,Term T3 - G18,Scheduled,2020-07-23 12:34:00,2020-07-23 12:34:00
+United Airlines,5225,Aspen| CO,Term 1 - B22,Scheduled,2020-07-23 12:35:00,2020-07-23 12:43:00
+Qatar Airways,2455,Newark| NJ,Term T3 - H1B,Scheduled,2020-07-23 12:36:00,2020-07-23 12:36:00
+United Airlines,3759,Duluth| MN,Term 2 - F20,Scheduled,2020-07-23 12:36:00,2020-07-23 12:36:00
+British Airways,4582,Newark| NJ,Term T3 - H1B,Scheduled,2020-07-23 12:36:00,2020-07-23 12:36:00
+Air New Zealand,2376,Fort Lauderdale| FL,Term 1 - C26,In Air,2020-07-23 12:37:00,2020-07-23 12:05:00
+Alaska Airlines,4094,Rochester| NY,Term T3 - G11,Scheduled,2020-07-23 12:37:00,2020-07-23 12:37:00
+United Airlines,3783,Springfield| MO,Term 2 - F28,Scheduled,2020-07-23 12:38:00,2020-07-23 12:38:00
+United Airlines,3575,Traverse City| MI,Term 1 - C7,Scheduled,2020-07-23 12:42:00,2020-07-23 12:42:00
+Air Canada,3993,Memphis| TN,Term 2 - F7,Scheduled,2020-07-23 12:43:00,2020-07-23 12:43:00
+Aer Lingus,6628,Memphis| TN,Term 2 - F7,Scheduled,2020-07-23 12:43:00,2020-07-23 12:43:00
+Air New Zealand,2792,Raleigh/Durham| NC,Term 1 - C16,Scheduled,2020-07-23 12:44:00,2020-07-23 12:09:00
+All Nippon Airways,7781,Raleigh/Durham| NC,Term 1 - C16,Scheduled,2020-07-23 12:44:00,2020-07-23 12:09:00
+Scandinavian Airlines,9842,Raleigh/Durham| NC,Term 1 - C16,Scheduled,2020-07-23 12:44:00,2020-07-23 12:09:00
+Qatar Airways,2851,Indianapolis| IN,Term T3 - L4,Scheduled,2020-07-23 12:45:00,2020-07-23 12:45:00
+American Airlines,4494,Indianapolis| IN,Term T3 - L4,Scheduled,2020-07-23 12:45:00,2020-07-23 12:45:00
+British Airways,5533,Indianapolis| IN,Term T3 - L4,Scheduled,2020-07-23 12:45:00,2020-07-23 12:45:00
+Air Canada,5539,Pittsburgh| PA,Term 1 - C8,Scheduled,2020-07-23 12:46:00,2020-07-23 12:46:00
+All Nippon Airways,7441,Pittsburgh| PA,Term 1 - C8,Scheduled,2020-07-23 12:46:00,2020-07-23 12:46:00
+Air Canada,4923,St Louis| MO,Term 2 - F11,Scheduled,2020-07-23 12:50:00,2020-07-23 12:50:00
+Lufthansa,8923,St Louis| MO,Term 2 - F11,Scheduled,2020-07-23 12:50:00,2020-07-23 12:50:00
+Air New Zealand,2342,Newark| NJ,Term 1 - B14,Scheduled,2020-07-23 12:51:00,2020-07-23 12:29:00
+Air Canada,5206,Newark| NJ,Term 1 - B14,Scheduled,2020-07-23 12:51:00,2020-07-23 12:29:00
+Aer Lingus,6817,Sioux Falls| SD,Term 2 - F25,Scheduled,2020-07-23 12:51:00,2020-07-23 12:51:00
+Air New Zealand,2722,Norfolk| VA,Term 1 - C2,Scheduled,2020-07-23 12:52:00,2020-07-23 12:52:00
+United Airlines,3409,Norfolk| VA,Term 1 - C2,Scheduled,2020-07-23 12:52:00,2020-07-23 12:52:00
+United Airlines,4415,Cincinnati| OH,Term 2 - F19,Scheduled,2020-07-23 12:53:00,2020-07-23 12:53:00
+Austrian Airlines,7714,Cleveland| OH,Term 1 - B8,Scheduled,2020-07-23 12:53:00,2020-07-23 12:48:00
+Turkish Airlines,9566,Cleveland| OH,Term 1 - B8,Scheduled,2020-07-23 12:53:00,2020-07-23 12:48:00
+Air New Zealand,2738,Philadelphia| PA,Term 1 - B5,Scheduled,2020-07-23 12:54:00,2020-07-23 12:54:00
+Scandinavian Airlines,9830,Philadelphia| PA,Term 1 - B5,Scheduled,2020-07-23 12:54:00,2020-07-23 12:54:00
+Aer Lingus,6087,Houston| TX,Term 1 - C18,Scheduled,2020-07-23 12:55:00,2020-07-23 12:42:00
+Air New Zealand,6841,Houston| TX,Term 1 - C18,Scheduled,2020-07-23 12:55:00,2020-07-23 12:42:00
+Austrian Airlines,7730,Houston| TX,Term 1 - C18,Scheduled,2020-07-23 12:55:00,2020-07-23 12:42:00
+United Airlines,3573,Minneapolis| MN,Term 1 - C6,Scheduled,2020-07-23 12:56:00,2020-07-23 12:56:00
+Scandinavian Airlines,3962,Minneapolis| MN,Term 1 - C6,Scheduled,2020-07-23 12:56:00,2020-07-23 12:56:00
+Lufthansa,7999,Minneapolis| MN,Term 1 - C6,Scheduled,2020-07-23 12:56:00,2020-07-23 12:56:00
+Air New Zealand,2124,Baltimore| MD,Term 1 - B12,Scheduled,2020-07-23 12:58:00,2020-07-23 12:58:00
+Air Canada,5488,Sacramento| CA,Term 1 - B7,In Air,2020-07-23 12:58:00,2020-07-23 12:52:00
+All Nippon Airways,6507,Baltimore| MD,Term 1 - B12,Scheduled,2020-07-23 12:58:00,2020-07-23 12:58:00
+Lufthansa,9347,Sacramento| CA,Term 1 - B7,In Air,2020-07-23 12:58:00,2020-07-23 12:52:00
+Lufthansa,7469,Dallas-Fort Worth| TX,Term 1 - C5,Scheduled,2020-07-23 12:59:00,2020-07-23 12:59:00
+Scandinavian Airlines,9798,Dallas-Fort Worth| TX,Term 1 - C5,Scheduled,2020-07-23 12:59:00,2020-07-23 12:59:00
+Lufthansa,9099,Moline| IL,Term 2 - E1,Scheduled,2020-07-23 13:00:00,2020-07-23 13:00:00
+United Airlines,3404,Atlanta| GA,Term 1 - C3,Scheduled,2020-07-23 13:01:00,2020-07-23 13:01:00
+Austrian Airlines,7724,Atlanta| GA,Term 1 - C3,Scheduled,2020-07-23 13:01:00,2020-07-23 13:01:00
+Air New Zealand,2572,Kansas City| MO,Term 1 - C4,Scheduled,2020-07-23 13:02:00,2020-07-23 13:02:00
+Aer Lingus,6691,Orange County| CA,Term 1 - C22,In Air,2020-07-23 13:02:00,2020-07-23 12:51:00
+Aer Lingus,6133,Phoenix| AZ,Term 1 - B6,Departed,2020-07-23 13:03:00,2020-07-23 12:46:00
+All Nippon Airways,7727,Orlando| FL,Term 1 - C19,Scheduled,2020-07-23 13:03:00,2020-07-23 12:42:00
+Air Canada,4295,Austin| TX,Term 1 - B2,Scheduled,2020-07-23 13:04:00,2020-07-23 13:08:00
+Aer Lingus,6263,Austin| TX,Term 1 - B2,Scheduled,2020-07-23 13:04:00,2020-07-23 13:08:00
+Lufthansa,7685,Austin| TX,Term 1 - B2,Scheduled,2020-07-23 13:04:00,2020-07-23 13:08:00
+Aer Lingus,6544,Grand Rapids| MI,Term 2 - F6,Scheduled,2020-07-23 13:05:00,2020-07-23 13:05:00
+Air New Zealand,2150,Charleston| SC,Term 1 - C27,Scheduled,2020-07-23 13:06:00,2020-07-23 13:06:00
+Air Canada,4570,Charleston| SC,Term 1 - C27,Scheduled,2020-07-23 13:06:00,2020-07-23 13:06:00
+Lufthansa,8567,Charleston| SC,Term 1 - C27,Scheduled,2020-07-23 13:06:00,2020-07-23 13:06:00
+Scandinavian Airlines,9824,Omaha| NE,Term 1 - B1,Scheduled,2020-07-23 13:07:00,2020-07-23 13:07:00
+United Airlines,4406,Madison| WI,Term 2 - F27,Scheduled,2020-07-23 13:08:00,2020-07-23 13:08:00
+Lufthansa,8995,Madison| WI,Term 2 - F27,Scheduled,2020-07-23 13:08:00,2020-07-23 13:08:00
+Air Canada,4576,Salt Lake City| UT,Term 1 - B21,Scheduled,2020-07-23 13:09:00,2020-07-23 13:06:00
+Aer Lingus,6365,Salt Lake City| UT,Term 1 - B21,Scheduled,2020-07-23 13:09:00,2020-07-23 13:06:00
+Lufthansa,9023,Salt Lake City| UT,Term 1 - B21,Scheduled,2020-07-23 13:09:00,2020-07-23 13:06:00
+Lufthansa,9147,San Diego| CA,Term 1 - B11,In Air,2020-07-23 13:10:00,2020-07-23 12:41:00
+Aer Lingus,6317,Louisville| KY,Term 2 - F23,Scheduled,2020-07-23 13:11:00,2020-07-23 13:11:00
+SWISS,3295,Seattle| WA,Term 1 - B4,In Air,2020-07-23 13:12:00,2020-07-23 12:54:00
+Air Canada,5030,Los Angeles| CA,Term 1 - C9,In Air,2020-07-23 13:12:00,2020-07-23 13:04:00
+United Airlines,5144,Decatur| IL,Term 2 - E10,Scheduled,2020-07-23 13:14:00,2020-07-23 13:14:00
+American Airlines,2285,Orange County| CA,Term T3 - K8,In Air,2020-07-23 13:15:00,2020-07-23 13:00:00
+Alaska Airlines,4483,Orange County| CA,Term T3 - K8,In Air,2020-07-23 13:15:00,2020-07-23 13:00:00
+British Airways,5426,Orange County| CA,Term T3 - K8,In Air,2020-07-23 13:15:00,2020-07-23 13:00:00
+WestJet Airlines,6532,New York| NY,Term 2 - E16,Scheduled,2020-07-23 13:15:00,2020-07-23 12:53:00
+Air New Zealand,2072,Nashville| TN,Term 1 - B20,Scheduled,2020-07-23 13:16:00,2020-07-23 13:16:00
+Scandinavian Airlines,3970,Nashville| TN,Term 1 - B20,Scheduled,2020-07-23 13:16:00,2020-07-23 13:16:00
+Austrian Airlines,7722,Detroit| MI,Term 1 - B10,Scheduled,2020-07-23 13:17:00,2020-07-23 13:17:00
+United Airlines,5138,Paducah| KY,Term 2 - E6,Scheduled,2020-07-23 13:18:00,2020-07-23 13:18:00
+United Airlines,3446,Washington| DC,Term 1 - C28,Scheduled,2020-07-23 13:19:00,2020-07-23 13:19:00
+LOT Polish Airlines,4410,San Francisco| CA,Term 1 - C21,In Air,2020-07-23 13:20:00,2020-07-23 13:18:00
+Aer Lingus,6222,San Francisco| CA,Term 1 - C21,In Air,2020-07-23 13:20:00,2020-07-23 13:18:00
+Scandinavian Airlines,8820,San Francisco| CA,Term 1 - C21,In Air,2020-07-23 13:20:00,2020-07-23 13:18:00
+United Airlines,2807,London,Term 1 - B17,In Air,2020-07-23 13:25:00,2020-07-23 12:37:00
+United Airlines,882,Tokyo,INTL,In Air,2020-07-23 13:40:00,2020-07-23 12:48:00
+Qatar Airways,725,Doha,Term 5,In Air,2020-07-23 13:45:00,2020-07-23 13:17:00
+Malaysia Airlines,9073,Doha,Term 5,In Air,2020-07-23 13:45:00,2020-07-23 13:17:00
+American Airlines,3219,Baltimore| MD,Term T3 - G3,Scheduled,2020-07-23 13:51:00,2020-07-23 13:51:00
+American Airlines,3556,Jacksonville| FL,Term T3 - L23,Delayed,2020-07-23 13:52:00,2020-07-23 15:16:00
+Alaska Airlines,4573,Jacksonville| FL,Term T3 - L23,Delayed,2020-07-23 13:52:00,2020-07-23 15:16:00
+American Airlines,985,Washington| DC,Term T3 - K20,Scheduled,2020-07-23 13:53:00,2020-07-23 13:53:00
+British Airways,4910,Washington| DC,Term T3 - K20,Scheduled,2020-07-23 13:53:00,2020-07-23 13:53:00
+Alaska Airlines,4031,Grand Rapids| MI,Term T3 - G5,Scheduled,2020-07-23 13:54:00,2020-07-23 13:54:00
+Qatar Airways,7603,Grand Rapids| MI,Term T3 - G5,Scheduled,2020-07-23 13:54:00,2020-07-23 13:54:00
+Alaska Airlines,4710,White Plains| NY,Term T3 - L10A,Scheduled,2020-07-23 13:58:00,2020-07-23 13:58:00
+Alaska Airlines,4690,Oklahoma City| OK,Term T3 - G19,Scheduled,2020-07-23 13:59:00,2020-07-23 13:59:00
+American Airlines,3801,El Paso| TX,Term T3 - L23,Scheduled,2020-07-23 14:00:00,2020-07-23 14:00:00
+Qatar Airways,2425,Las Vegas| NV,Term T3 - K6,Scheduled,2020-07-23 14:02:00,2020-07-23 14:07:00
+Iberia Airlines,4031,Las Vegas| NV,Term T3 - K6,Scheduled,2020-07-23 14:02:00,2020-07-23 14:07:00
+Alaska Airlines,4208,Fayetteville/Springdale/| AR,Term T3 - L4,Scheduled,2020-07-23 14:03:00,2020-07-23 14:03:00
+British Airways,4968,Fayetteville/Springdale/| AR,Term T3 - L4,Scheduled,2020-07-23 14:03:00,2020-07-23 14:03:00
+Delta Air Lines,1286,Salt Lake City| UT,Term 2 - E15,Scheduled,2020-07-23 14:04:00,2020-07-23 14:04:00
+Alaska Airlines,4589,Nashville| TN,Term T3 - G11,Scheduled,2020-07-23 14:04:00,2020-07-23 14:04:00
+KLM Royal Dutch Airlines,7873,Salt Lake City| UT,Term 2 - E15,Scheduled,2020-07-23 14:04:00,2020-07-23 14:04:00
+American Airlines,2608,Philadelphia| PA,Term T3 - H8,Scheduled,2020-07-23 14:05:00,2020-07-23 14:05:00
+Delta Air Lines,8052,Mexico City,Term 5,Departed,2020-07-23 14:05:00,2020-07-23 13:33:00
+Alaska Airlines,4160,Kansas City| MO,Term T3 - G1B,Scheduled,2020-07-23 14:06:00,2020-07-23 14:06:00
+American Airlines,4270,Omaha| NE,Term T3 - L2A,Scheduled,2020-07-23 14:07:00,2020-07-23 14:07:00
+British Airways,5283,Omaha| NE,Term T3 - L2A,Scheduled,2020-07-23 14:07:00,2020-07-23 14:07:00
+Qatar Airways,2800,St Louis| MO,Term T3 - G13,Scheduled,2020-07-23 14:08:00,2020-07-23 14:08:00
+Alaska Airlines,4000,St Louis| MO,Term T3 - G13,Scheduled,2020-07-23 14:08:00,2020-07-23 14:08:00
+Gulf Air,6652,St Louis| MO,Term T3 - G13,Scheduled,2020-07-23 14:08:00,2020-07-23 14:08:00
+Qantas Airways,4787,Minneapolis| MN,Term T3 - K4,Scheduled,2020-07-23 14:09:00,2020-07-23 14:09:00
+Alaska Airlines,4605,Memphis| TN,Term T3 - L20,Scheduled,2020-07-23 14:10:00,2020-07-23 14:10:00
+Gulf Air,6839,San Diego| CA,Term T3 - K12,Scheduled,2020-07-23 14:10:00,2020-07-23 14:15:00
+Alaska Airlines,4399,Raleigh/Durham| NC,Term T3 - H17,Scheduled,2020-07-23 14:12:00,2020-07-23 14:12:00
+Alaska Airlines,4088,Richmond| VA,Term T3 - H1A,Scheduled,2020-07-23 14:13:00,2020-07-23 14:13:00
+Qatar Airways,7563,Richmond| VA,Term T3 - H1A,Scheduled,2020-07-23 14:13:00,2020-07-23 14:13:00
+Alaska Airlines,4305,Charlotte| NC,Term T3 - H14,Scheduled,2020-07-23 14:14:00,2020-07-23 14:14:00
+Gulf Air,6498,Charlotte| NC,Term T3 - H14,Scheduled,2020-07-23 14:14:00,2020-07-23 14:14:00
+British Airways,6794,Traverse City| MI,Term T3 - L1B,Scheduled,2020-07-23 14:15:00,2020-07-23 14:15:00
+American Airlines,3648,Wilmington| NC,Term T3 - L3,Scheduled,2020-07-23 14:17:00,2020-07-23 14:17:00
+Qantas Airways,3325,San Francisco| CA,Term T3 - H6,Scheduled,2020-07-23 14:20:00,2020-07-23 14:33:00
+Alaska Airlines,4135,Fargo| ND,Term T3 - G1A,Scheduled,2020-07-23 14:20:00,2020-07-23 14:20:00
+Malaysia Airlines,9469,Portland| OR,Term T3 - K10,Scheduled,2020-07-23 14:20:00,2020-07-23 14:29:00
+Frontier Airlines,1426,Phoenix| AZ,Term 5 - M2,Scheduled,2020-07-23 14:32:00,2020-07-23 14:14:00
+Turkish Airlines,6319,Shannon, ,In Air,2020-07-23 14:40:00,2020-07-23 13:43:00
+SWISS,3044,London,INTL,In Air,2020-07-23 15:15:00,2020-07-23 14:11:00
+Austrian Airlines,7849,London,INTL,In Air,2020-07-23 15:15:00,2020-07-23 14:11:00
+Lufthansa,9348,London,INTL,In Air,2020-07-23 15:15:00,2020-07-23 14:11:00
+American Airlines,3417,Traverse City| MI,Term T3 - L3,Arrived,2020-07-23 07:45:00,2020-07-23 08:40:00
+Air Canada,4716,Greenville| SC,Term 1 - B6,Arrived,2020-07-23 08:10:00,2020-07-23 09:28:00
+Aer Lingus,6843,Greenville| SC,Term 1 - B6,Arrived,2020-07-23 08:10:00,2020-07-23 09:28:00
+Air China,1053,Anchorage| AK, ,No Recent Info - Call Airline,2020-07-23 08:35:00,
+American Airlines,8332,Quincy| IL,Term 3,Arrived,2020-07-23 08:38:00,2020-07-23 08:52:00
+American Airlines,3478,Lexington| KY,Term T3 - G20,Arrived,2020-07-23 08:42:00,2020-07-23 08:18:00
+Delta Air Lines,1694,New York| NY,Term 2 - E14,Arrived,2020-07-23 08:47:00,2020-07-23 08:45:00
+American Airlines,4036,Marquette| MI,Term T3 - G9,Arrived,2020-07-23 08:47:00,2020-07-23 08:45:00
+Alaska Airlines,4213,Greenville| SC,Term T3 - G7,Arrived,2020-07-23 08:47:00,2020-07-23 08:23:00
+American Airlines,2327,Austin| TX,Term T3 - H9,Arrived,2020-07-23 08:51:00,2020-07-23 08:44:00
+Alaska Airlines,4494,Austin| TX,Term T3 - H9,Arrived,2020-07-23 08:51:00,2020-07-23 08:44:00
+American Airlines,3699,Lansing| MI,Term T3 - G14,Arrived,2020-07-23 08:52:00,2020-07-23 08:46:00
+American Airlines,4277,Indianapolis| IN,Term T3 - L8,Arrived,2020-07-23 08:53:00,2020-07-23 08:44:00
+American Airlines,3251,Baltimore| MD,Term T3 - G17,Arrived,2020-07-23 08:54:00,2020-07-23 08:37:00
+American Airlines,1451,Tampa| FL,Term T3 - H11A,Arrived,2020-07-23 08:55:00,2020-07-23 08:35:00
+British Airways,4443,Dallas-Fort Worth| TX,Term T3 - H16,Arrived,2020-07-23 08:55:00,2020-07-23 08:42:00
+Alaska Airlines,6028,Tampa| FL,Term T3 - H11A,Arrived,2020-07-23 08:55:00,2020-07-23 08:35:00
+Alaska Airlines,4183,New York| NY,Term T3 - K19,Arrived,2020-07-23 08:57:00,2020-07-23 08:51:00
+American Airlines,113,Washington| DC,Term T3 - H10,Arrived,2020-07-23 08:59:00,2020-07-23 08:35:00
+American Airlines,2209,St Louis| MO,Term T3 - K3,Arrived,2020-07-23 09:00:00,2020-07-23 08:53:00
+Qatar Airways,2814,Raleigh/Durham| NC,Term T3 - K9,Arrived,2020-07-23 09:00:00,2020-07-23 08:31:00
+Alaska Airlines,4145,Richmond| VA,Term T3 - L10A,Arrived,2020-07-23 09:00:00,2020-07-23 08:43:00
+British Airways,5060,St Louis| MO,Term T3 - K3,Arrived,2020-07-23 09:00:00,2020-07-23 08:53:00
+American Airlines,4053,Buffalo| NY,Term T3 - L4,Arrived,2020-07-23 09:03:00,2020-07-23 08:56:00
+Alaska Airlines,4701,Huntsville| AL,Term T3 - L6A,Arrived,2020-07-23 09:03:00,2020-07-23 08:29:00
+American Airlines,3566,Grand Rapids| MI,Term T3 - L23,Arrived,2020-07-23 09:04:00,2020-07-23 08:47:00
+Asiana Airlines,909,Anchorage| AK, ,No Recent Info - Call Airline,2020-07-23 09:05:00,
+Qatar Airways,2787,Newark| NJ,Term T3 - H12,Arrived,2020-07-23 09:07:00,2020-07-23 08:49:00
+American Airlines,3430,Toronto,Term T3 - L20,Landed,2020-07-23 09:07:00,2020-07-23 09:25:00
+American Airlines,3572,Columbus| OH,Term T3 - L2C,Arrived,2020-07-23 09:08:00,2020-07-23 08:43:00
+Alaska Airlines,4065,Albany| NY,Term T3 - L6B,Arrived,2020-07-23 09:08:00,2020-07-23 08:54:00
+American Airlines,4418,Atlanta| GA,Term T3 - H4,Arrived,2020-07-23 09:09:00,2020-07-23 09:01:00
+Qantas Airways,4619,Pittsburgh| PA,Term T3 - K16,Arrived,2020-07-23 09:09:00,2020-07-23 08:58:00
+Qatar Airways,9215,Atlanta| GA,Term T3 - H4,Arrived,2020-07-23 09:09:00,2020-07-23 09:01:00
+American Airlines,3342,Wilkes-Barre/Scranton| PA,Term T3 - L1B,Arrived,2020-07-23 09:11:00,2020-07-23 08:56:00
+Alaska Airlines,4757,Wilkes-Barre/Scranton| PA,Term T3 - L1B,Arrived,2020-07-23 09:11:00,2020-07-23 08:56:00
+American Airlines,4237,Dubuque| IA,Term T3 - L1A,Arrived,2020-07-23 09:13:00,2020-07-23 09:02:00
+American Airlines,4521,Louisville| KY,Term T3 - L22,Arrived,2020-07-23 09:15:00,2020-07-23 08:55:00
+Qantas Airways,4863,Minneapolis| MN,Term T3 - H1B,Arrived,2020-07-23 09:15:00,2020-07-23 09:02:00
+British Airways,5022,Minneapolis| MN,Term T3 - H1B,Arrived,2020-07-23 09:15:00,2020-07-23 09:02:00
+Delta Air Lines,2098,Atlanta| GA,Term 2 - E16,In Air,2020-07-23 09:19:00,2020-07-23 10:05:00
+American Airlines,3803,San Antonio| TX,Term T3 - L3,Landed,2020-07-23 09:20:00,2020-07-23 08:58:00
+British Airways,5542,San Antonio| TX,Term T3 - L3,Landed,2020-07-23 09:20:00,2020-07-23 08:58:00
+United Airlines,8533,Toronto,Term 2,Arrived,2020-07-23 09:20:00,2020-07-23 09:05:00
+AeroMexico,3097,Detroit| MI,Term 2 - E9,Arrived,2020-07-23 09:25:00,2020-07-23 09:16:00
+Spirit Airlines,478,Fort Lauderdale| FL,Term 3 - L5,Arrived,2020-07-23 09:27:00,2020-07-23 09:01:00
+Spirit Airlines,992,New Orleans| LA,Term 3 - L7,Arrived,2020-07-23 09:33:00,2020-07-23 09:15:00
+American Airlines,8405,Tokyo,Term 5,Arrived,2020-07-23 09:45:00,2020-07-23 09:28:00
+AeroMexico,3230,Minneapolis| MN,Term 2 - E17,Arrived,2020-07-23 09:50:00,2020-07-23 09:30:00
+Alaska Airlines,4021,Montreal,Term T3 - G9,Arrived,2020-07-23 09:50:00,2020-07-23 09:20:00
+WestJet Airlines,6672,Minneapolis| MN,Term 2 - E17,Arrived,2020-07-23 09:50:00,2020-07-23 09:30:00
+JetBlue Airways,311,Boston| MA,Term 3 - G2,In Air,2020-07-23 10:19:00,2020-07-23 09:42:00
+Emirates Airline,6313,Boston| MA,Term 3 - G2,In Air,2020-07-23 10:19:00,2020-07-23 09:42:00
+EVA Airways,660,Anchorage| AK, ,In Air,2020-07-23 10:40:00,2020-07-23 13:31:00
+Frontier Airlines,412,Denver| CO,Term 5 - M1,In Air,2020-07-23 10:45:00,2020-07-23 10:09:00
+Yangtze River Express,7491,Anchorage| AK, ,No Recent Info - Call Airline,2020-07-23 10:45:00,
+Qatar Airways,2705,Miami| FL,Term T3 - H11A,In Air,2020-07-23 10:55:00,2020-07-23 10:32:00
+American Airlines,2812,Dallas-Fort Worth| TX,Term T3 - H8,In Air,2020-07-23 10:55:00,2020-07-23 10:26:00
+American Airlines,87,London,Term T5 - M13,In Air,2020-07-23 11:05:00,2020-07-23 10:52:00
+Iberia Airlines,4209,London,Term T5 - M13,In Air,2020-07-23 11:05:00,2020-07-23 10:52:00
+Gulf Air,6687,London,Term T5 - M13,In Air,2020-07-23 11:05:00,2020-07-23 10:52:00
+Frontier Airlines,1422,Miami| FL,Term 5 - M2,In Air,2020-07-23 11:24:00,2020-07-23 10:53:00
+JetBlue Airways,1105,New York| NY, ,No Takeoff Info - Call Airline,2020-07-23 11:30:00,
+Spirit Airlines,847,New York| NY,Term 3 - L11,In Air,2020-07-23 11:43:00,2020-07-23 10:49:00
+American Airlines,2754,Dallas-Fort Worth| TX,Term T3 - K16,Departed,2020-07-23 12:04:00,2020-07-23 11:56:00
+American Airlines,2302,New York| NY,Term T3 - H5,Departed,2020-07-23 12:13:00,2020-07-23 11:59:00
+Alaska Airlines,4102,New York| NY,Term T3 - H5,Departed,2020-07-23 12:13:00,2020-07-23 11:59:00
+British Airways,6778,New York| NY,Term T3 - H5,Departed,2020-07-23 12:13:00,2020-07-23 11:59:00
+Alaska Airlines,4044,Jacksonville| FL,Term T3 - L6A,Departed,2020-07-23 12:15:00,2020-07-23 12:03:00
+British Airways,6529,Kansas City| MO,Term T3 - H3A,Scheduled,2020-07-23 12:15:00,2020-07-23 12:14:00
+Qatar Airways,2423,San Francisco| CA,Term T3 - K5,Departed,2020-07-23 12:19:00,2020-07-23 13:49:00
+American Airlines,3440,Buffalo| NY,Term T3 - L10A,Scheduled,2020-07-23 12:19:00,2020-07-23 12:19:00
+Alaska Airlines,4200,Cleveland| OH,Term T3 - G19A,Scheduled,2020-07-23 12:19:00,2020-07-23 12:19:00
+British Airways,4789,Buffalo| NY,Term T3 - L10A,Scheduled,2020-07-23 12:19:00,2020-07-23 12:19:00
+Gulf Air,6772,Buffalo| NY,Term T3 - L10A,Scheduled,2020-07-23 12:19:00,2020-07-23 12:19:00
+Scandinavian Airlines,943,Copenhagen,Term 5,In Air,2020-07-23 12:20:00,2020-07-23 12:06:00
+Malaysia Airlines,9449,Los Angeles| CA,Term T3 - H14,In Air,2020-07-23 12:21:00,2020-07-23 11:54:00
+American Airlines,3338,Columbus| OH,Term T3 - L24,Scheduled,2020-07-23 12:22:00,2020-07-23 12:22:00
+American Airlines,3525,Bloomington/Normal| IL,Term T3 - L1A,Scheduled,2020-07-23 12:23:00,2020-07-23 12:23:00
+Iberia Airlines,4035,Lexington| KY,Term T3 - G20,Scheduled,2020-07-23 12:23:00,2020-07-23 12:23:00
+Alaska Airlines,6040,Lexington| KY,Term T3 - G20,Scheduled,2020-07-23 12:23:00,2020-07-23 12:23:00
+Qatar Airways,2491,Pittsburgh| PA,Term T3 - L3,Scheduled,2020-07-23 12:24:00,2020-07-23 12:16:00
+American Airlines,3366,Appleton| WI,Term T3 - G12,Scheduled,2020-07-23 12:24:00,2020-07-23 12:24:00
+Alaska Airlines,4108,Hartford| CT,Term T3 - G5,Scheduled,2020-07-23 12:24:00,2020-07-23 12:24:00
+Gulf Air,4158,Pittsburgh| PA,Term T3 - L3,Scheduled,2020-07-23 12:24:00,2020-07-23 12:16:00
+Qantas Airways,4581,Detroit| MI,Term T3 - G19,Scheduled,2020-07-23 12:24:00,2020-07-23 12:24:00
+British Airways,5136,Hartford| CT,Term T3 - G5,Scheduled,2020-07-23 12:24:00,2020-07-23 12:24:00
+Delta Air Lines,1708,Atlanta| GA,Term 2 - E11,Scheduled,2020-07-23 12:25:00,2020-07-23 12:12:00
+AeroMexico,3024,Atlanta| GA,Term 2 - E11,Scheduled,2020-07-23 12:25:00,2020-07-23 12:12:00
+Alaska Airlines,4557,Miami| FL,Term T3 - K9,In Air,2020-07-23 12:25:00,2020-07-23 11:57:00
+British Airways,2454,Toronto,Term T3 - L2A,Scheduled,2020-07-23 12:26:00,2020-07-23 12:33:00
+American Airlines,3736,Toronto,Term T3 - L2A,Scheduled,2020-07-23 12:26:00,2020-07-23 12:33:00
+American Airlines,1833,Nashville| TN,Term T3 - H6,Scheduled,2020-07-23 12:27:00,2020-07-23 12:34:00
+Spirit Airlines,3029,Myrtle Beach| SC,Term 3 - L7,Scheduled,2020-07-23 12:27:00,2020-07-23 12:27:00
+American Airlines,3978,Evansville| IN,Term T3 - G14,Delayed,2020-07-23 12:28:00,2020-07-23 13:13:00
+British Airways,4913,Evansville| IN,Term T3 - G14,Delayed,2020-07-23 12:28:00,2020-07-23 13:13:00
+Qatar Airways,2436,Cincinnati| OH,Term T3 - K1,Scheduled,2020-07-23 12:29:00,2020-07-23 12:29:00
+American Airlines,3926,Rochester| MN,Term T3 - G1A,Scheduled,2020-07-23 12:29:00,2020-07-23 12:29:00
+Alaska Airlines,4049,Cincinnati| OH,Term T3 - K1,Scheduled,2020-07-23 12:29:00,2020-07-23 12:29:00
+Qantas Airways,4870,Cincinnati| OH,Term T3 - K1,Scheduled,2020-07-23 12:29:00,2020-07-23 12:29:00
+British Airways,6951,Cedar Rapids| IA,Term T3 - G14A,Scheduled,2020-07-23 12:29:00,2020-07-23 12:29:00
+American Airlines,3550,Kalamazoo| MI,Term T3 - G3,Scheduled,2020-07-23 12:30:00,2020-07-23 12:30:00
+British Airways,4937,Kalamazoo| MI,Term T3 - G3,Scheduled,2020-07-23 12:30:00,2020-07-23 12:30:00
+United Airlines,484,Washington| DC,Term 1 - C23,Scheduled,2020-07-23 12:31:00,2020-07-23 12:06:00
+British Airways,5460,San Diego| CA,Term T3 - K15,In Air,2020-07-23 12:31:00,2020-07-23 11:53:00
+American Airlines,1290,Reno| NV,Term T3 - H10,In Air,2020-07-23 12:32:00,2020-07-23 12:35:00
+British Airways,1787,Reno| NV,Term T3 - H10,In Air,2020-07-23 12:32:00,2020-07-23 12:35:00
+American Airlines,3174,Green Bay| WI,Term T3 - G18,Scheduled,2020-07-23 12:34:00,2020-07-23 12:34:00
+American Airlines,3641,Dubuque| IA,Term T3 - G8,Scheduled,2020-07-23 12:35:00,2020-07-23 12:35:00
+Lufthansa,7791,Aspen| CO,Term 1 - B22,Scheduled,2020-07-23 12:35:00,2020-07-23 12:43:00
+American Airlines,3303,Newark| NJ,Term T3 - H1B,Scheduled,2020-07-23 12:36:00,2020-07-23 12:36:00
+Alaska Airlines,4542,Newark| NJ,Term T3 - H1B,Scheduled,2020-07-23 12:36:00,2020-07-23 12:36:00
+United Airlines,504,Fort Lauderdale| FL,Term 1 - C26,In Air,2020-07-23 12:37:00,2020-07-23 12:05:00
+American Airlines,4160,Flint| MI,Term T3 - G7,Scheduled,2020-07-23 12:37:00,2020-07-23 12:37:00
+British Airways,4678,Rochester| NY,Term T3 - G11,Scheduled,2020-07-23 12:37:00,2020-07-23 12:37:00
+Scandinavian Airlines,9806,Fort Lauderdale| FL,Term 1 - C26,In Air,2020-07-23 12:37:00,2020-07-23 12:05:00
+American Airlines,3194,Madison| WI,Term T3 - L8,Scheduled,2020-07-23 12:39:00,2020-07-23 12:39:00
+Alaska Airlines,4251,Madison| WI,Term T3 - L8,Scheduled,2020-07-23 12:39:00,2020-07-23 12:39:00
+British Airways,6550,Toledo| OH,Term T3 - G10,Scheduled,2020-07-23 12:39:00,2020-07-23 12:39:00
+Qatar Airways,2461,Orlando| FL,Term T3 - H15,Scheduled,2020-07-23 12:40:00,2020-07-23 12:42:00
+Alaska Airlines,4344,Orlando| FL,Term T3 - H15,Scheduled,2020-07-23 12:40:00,2020-07-23 12:42:00
+American Airlines,4496,Memphis| TN,Term T3 - L23,Scheduled,2020-07-23 12:40:00,2020-07-23 12:40:00
+British Airways,6667,Traverse City| MI,Term T3 - G16,Scheduled,2020-07-23 12:40:00,2020-07-23 12:40:00
+Air New Zealand,2602,Memphis| TN,Term 2 - F7,Scheduled,2020-07-23 12:43:00,2020-07-23 12:43:00
+United Airlines,4404,Memphis| TN,Term 2 - F7,Scheduled,2020-07-23 12:43:00,2020-07-23 12:43:00
+Lufthansa,8819,Memphis| TN,Term 2 - F7,Scheduled,2020-07-23 12:43:00,2020-07-23 12:43:00
+United Airlines,3608,Raleigh/Durham| NC,Term 1 - C16,Scheduled,2020-07-23 12:44:00,2020-07-23 12:09:00
+Lufthansa,8853,Raleigh/Durham| NC,Term 1 - C16,Scheduled,2020-07-23 12:44:00,2020-07-23 12:09:00
+AeroMexico,652,Guadalajara,Term 5,In Air,2020-07-23 12:45:00,2020-07-23 12:07:00
+Alaska Airlines,4078,Indianapolis| IN,Term T3 - L4,Scheduled,2020-07-23 12:45:00,2020-07-23 12:45:00
+Qantas Airways,4900,Indianapolis| IN,Term T3 - L4,Scheduled,2020-07-23 12:45:00,2020-07-23 12:45:00
+Delta Air Lines,8043,Guadalajara,Term 5,In Air,2020-07-23 12:45:00,2020-07-23 12:07:00
+Air New Zealand,2756,Pittsburgh| PA,Term 1 - C8,Scheduled,2020-07-23 12:46:00,2020-07-23 12:46:00
+United Airlines,4428,Fayetteville/Springdale/| AR,Term 2 - F9,Scheduled,2020-07-23 12:46:00,2020-07-23 12:46:00
+Aer Lingus,6580,Wichita| KS,Term 2 - F17,Scheduled,2020-07-23 12:46:00,2020-07-23 12:46:00
+Scandinavian Airlines,8756,Pittsburgh| PA,Term 1 - C8,Scheduled,2020-07-23 12:46:00,2020-07-23 12:46:00
+Lufthansa,8931,Fayetteville/Springdale/| AR,Term 2 - F9,Scheduled,2020-07-23 12:46:00,2020-07-23 12:46:00
+American Airlines,2928,Dallas-Fort Worth| TX,Term T3 - H12,Scheduled,2020-07-23 12:49:00,2020-07-23 12:46:00
+Air New Zealand,2892,St Louis| MO,Term 2 - F11,Scheduled,2020-07-23 12:50:00,2020-07-23 12:50:00
+United Airlines,4453,St Louis| MO,Term 2 - F11,Scheduled,2020-07-23 12:50:00,2020-07-23 12:50:00
+Aer Lingus,6396,St Louis| MO,Term 2 - F11,Scheduled,2020-07-23 12:50:00,2020-07-23 12:50:00
+All Nippon Airways,7467,St Louis| MO,Term 2 - F11,Scheduled,2020-07-23 12:50:00,2020-07-23 12:50:00
+Austrian Airlines,7736,St Louis| MO,Term 2 - F11,Scheduled,2020-07-23 12:50:00,2020-07-23 12:50:00
+United Airlines,5629,Columbia| MO,Term 2 - E5,Scheduled,2020-07-23 12:51:00,2020-07-23 12:51:00
+Lufthansa,9121,Sioux Falls| SD,Term 2 - F25,Scheduled,2020-07-23 12:51:00,2020-07-23 12:51:00
+Air Canada,3191,Norfolk| VA,Term 1 - C2,Scheduled,2020-07-23 12:52:00,2020-07-23 12:52:00
+All Nippon Airways,7521,Norfolk| VA,Term 1 - C2,Scheduled,2020-07-23 12:52:00,2020-07-23 12:52:00
+Air New Zealand,2170,Cleveland| OH,Term 1 - B8,Scheduled,2020-07-23 12:53:00,2020-07-23 12:48:00
+Air Canada,3081,Cincinnati| OH,Term 2 - F19,Scheduled,2020-07-23 12:53:00,2020-07-23 12:53:00
+SWISS,3325,Cincinnati| OH,Term 2 - F19,Scheduled,2020-07-23 12:53:00,2020-07-23 12:53:00
+LOT Polish Airlines,4334,Cleveland| OH,Term 1 - B8,Scheduled,2020-07-23 12:53:00,2020-07-23 12:48:00
+Aer Lingus,6008,Cleveland| OH,Term 1 - B8,Scheduled,2020-07-23 12:53:00,2020-07-23 12:48:00
+All Nippon Airways,7599,Cleveland| OH,Term 1 - B8,Scheduled,2020-07-23 12:53:00,2020-07-23 12:48:00
+Lufthansa,8619,Cincinnati| OH,Term 2 - F19,Scheduled,2020-07-23 12:53:00,2020-07-23 12:53:00
+Scandinavian Airlines,9782,Cleveland| OH,Term 1 - B8,Scheduled,2020-07-23 12:53:00,2020-07-23 12:48:00
+Air Canada,3006,Philadelphia| PA,Term 1 - B5,Scheduled,2020-07-23 12:54:00,2020-07-23 12:54:00
+United Airlines,3780,South Bend| IN,Term 2 - F18,Scheduled,2020-07-23 12:54:00,2020-07-23 12:54:00
+All Nippon Airways,7595,Philadelphia| PA,Term 1 - B5,Scheduled,2020-07-23 12:54:00,2020-07-23 12:54:00
+United Airlines,1161,Houston| TX,Term 1 - C18,Scheduled,2020-07-23 12:55:00,2020-07-23 12:42:00
+LOT Polish Airlines,4364,Houston| TX,Term 1 - C18,Scheduled,2020-07-23 12:55:00,2020-07-23 12:42:00
+Scandinavian Airlines,6742,Houston| TX,Term 1 - C18,Scheduled,2020-07-23 12:55:00,2020-07-23 12:42:00
+Lufthansa,7493,Houston| TX,Term 1 - C18,Scheduled,2020-07-23 12:55:00,2020-07-23 12:42:00
+Air New Zealand,2666,Minneapolis| MN,Term 1 - C6,Scheduled,2020-07-23 12:56:00,2020-07-23 12:56:00
+Air Canada,3675,Minneapolis| MN,Term 1 - C6,Scheduled,2020-07-23 12:56:00,2020-07-23 12:56:00
+All Nippon Airways,7397,Minneapolis| MN,Term 1 - C6,Scheduled,2020-07-23 12:56:00,2020-07-23 12:56:00
+United Airlines,5259,Baltimore| MD,Term 1 - B12,Scheduled,2020-07-23 12:58:00,2020-07-23 12:58:00
+Aer Lingus,6373,Sacramento| CA,Term 1 - B7,In Air,2020-07-23 12:58:00,2020-07-23 12:52:00
+Scandinavian Airlines,8888,Sacramento| CA,Term 1 - B7,In Air,2020-07-23 12:58:00,2020-07-23 12:52:00
+Air New Zealand,2612,Miami| FL,Term 1 - C1,Departed,2020-07-23 12:59:00,2020-07-23 12:18:00
+United Airlines,3682,Miami| FL,Term 1 - C1,Departed,2020-07-23 12:59:00,2020-07-23 12:18:00
+Air Canada,5913,Dallas-Fort Worth| TX,Term 1 - C5,Scheduled,2020-07-23 12:59:00,2020-07-23 12:59:00
+All Nippon Airways,7573,New York| NY,Term 1 - C24,Scheduled,2020-07-23 12:59:00,2020-07-23 12:39:00
+Austrian Airlines,7712,Miami| FL,Term 1 - C1,Departed,2020-07-23 12:59:00,2020-07-23 12:18:00
+United Airlines,3997,Moline| IL,Term 2 - E1,Scheduled,2020-07-23 13:00:00,2020-07-23 13:00:00
+Air New Zealand,2022,Atlanta| GA,Term 1 - C3,Scheduled,2020-07-23 13:01:00,2020-07-23 13:01:00
+Lufthansa,7445,Atlanta| GA,Term 1 - C3,Scheduled,2020-07-23 13:01:00,2020-07-23 13:01:00
+Scandinavian Airlines,9747,Atlanta| GA,Term 1 - C3,Scheduled,2020-07-23 13:01:00,2020-07-23 13:01:00
+United Airlines,465,Orange County| CA,Term 1 - C22,In Air,2020-07-23 13:02:00,2020-07-23 12:51:00
+SWISS,3297,Las Vegas| NV,Term 1 - C31,Departed,2020-07-23 13:02:00,2020-07-23 12:52:00
+LOT Polish Airlines,4368,Las Vegas| NV,Term 1 - C31,Departed,2020-07-23 13:02:00,2020-07-23 12:52:00
+Air Canada,5412,Kansas City| MO,Term 1 - C4,Scheduled,2020-07-23 13:02:00,2020-07-23 13:02:00
+All Nippon Airways,6513,Kansas City| MO,Term 1 - C4,Scheduled,2020-07-23 13:02:00,2020-07-23 13:02:00
+Austrian Airlines,7744,Las Vegas| NV,Term 1 - C31,Departed,2020-07-23 13:02:00,2020-07-23 12:52:00
+Scandinavian Airlines,8808,Las Vegas| NV,Term 1 - C31,Departed,2020-07-23 13:02:00,2020-07-23 12:52:00
+Lufthansa,9313,Las Vegas| NV,Term 1 - C31,Departed,2020-07-23 13:02:00,2020-07-23 12:52:00
+United Airlines,525,Orlando| FL,Term 1 - C19,Scheduled,2020-07-23 13:03:00,2020-07-23 12:42:00
+Air New Zealand,2586,Orlando| FL,Term 1 - C19,Scheduled,2020-07-23 13:03:00,2020-07-23 12:42:00
+SWISS,3265,Phoenix| AZ,Term 1 - B6,Departed,2020-07-23 13:03:00,2020-07-23 12:46:00
+LOT Polish Airlines,4394,Phoenix| AZ,Term 1 - B6,Departed,2020-07-23 13:03:00,2020-07-23 12:46:00
+Air Canada,5262,Phoenix| AZ,Term 1 - B6,Departed,2020-07-23 13:03:00,2020-07-23 12:46:00
+Austrian Airlines,7726,Orlando| FL,Term 1 - C19,Scheduled,2020-07-23 13:03:00,2020-07-23 12:42:00
+Lufthansa,8751,Birmingham| AL,Term 2 - F15,Scheduled,2020-07-23 13:03:00,2020-07-23 13:03:00
+Scandinavian Airlines,9834,Phoenix| AZ,Term 1 - B6,Departed,2020-07-23 13:03:00,2020-07-23 12:46:00
+United Airlines,5681,Austin| TX,Term 1 - B2,Scheduled,2020-07-23 13:04:00,2020-07-23 13:08:00
+Scandinavian Airlines,6825,Austin| TX,Term 1 - B2,Scheduled,2020-07-23 13:04:00,2020-07-23 13:08:00
+Air New Zealand,2404,Grand Rapids| MI,Term 2 - F6,Scheduled,2020-07-23 13:05:00,2020-07-23 13:05:00
+United Airlines,4429,Green Bay| WI,Term 2 - F1,Scheduled,2020-07-23 13:05:00,2020-07-23 13:05:00
+Qatar Airways,8139,Luxembourg, ,In Air,2020-07-23 13:05:00,
+Lufthansa,9411,Grand Rapids| MI,Term 2 - F6,Scheduled,2020-07-23 13:05:00,2020-07-23 13:05:00
+United Airlines,3576,Charleston| SC,Term 1 - C27,Scheduled,2020-07-23 13:06:00,2020-07-23 13:06:00
+All Nippon Airways,7251,Charleston| SC,Term 1 - C27,Scheduled,2020-07-23 13:06:00,2020-07-23 13:06:00
+Air New Zealand,2712,Omaha| NE,Term 1 - B1,Scheduled,2020-07-23 13:07:00,2020-07-23 13:07:00
+Air Canada,3591,Omaha| NE,Term 1 - B1,Scheduled,2020-07-23 13:07:00,2020-07-23 13:07:00
+United Airlines,5497,Omaha| NE,Term 1 - B1,Scheduled,2020-07-23 13:07:00,2020-07-23 13:07:00
+Aer Lingus,6358,Omaha| NE,Term 1 - B1,Scheduled,2020-07-23 13:07:00,2020-07-23 13:07:00
+All Nippon Airways,7611,Tulsa| OK,Term 1 - B9,Scheduled,2020-07-23 13:07:00,2020-07-23 13:07:00
+Lufthansa,9081,Omaha| NE,Term 1 - B1,Scheduled,2020-07-23 13:07:00,2020-07-23 13:07:00
+Air New Zealand,2650,Madison| WI,Term 2 - F27,Scheduled,2020-07-23 13:08:00,2020-07-23 13:08:00
+Aer Lingus,6872,Madison| WI,Term 2 - F27,Scheduled,2020-07-23 13:08:00,2020-07-23 13:08:00
+Air New Zealand,2486,Indianapolis| IN,Term 2 - F26,Scheduled,2020-07-23 13:09:00,2020-07-23 13:09:00
+United Airlines,5670,Salt Lake City| UT,Term 1 - B21,Scheduled,2020-07-23 13:09:00,2020-07-23 13:06:00
+All Nippon Airways,7605,Indianapolis| IN,Term 2 - F26,Scheduled,2020-07-23 13:09:00,2020-07-23 13:09:00
+Scandinavian Airlines,9852,Salt Lake City| UT,Term 1 - B21,Scheduled,2020-07-23 13:09:00,2020-07-23 13:06:00
+SWISS,3249,Denver| CO,Term 1 - C20,Scheduled,2020-07-23 13:10:00,2020-07-23 13:04:00
+United Airlines,3735,Evansville| IN,Term 2 - F12,Scheduled,2020-07-23 13:10:00,2020-07-23 13:10:00
+LOT Polish Airlines,4402,San Diego| CA,Term 1 - B11,In Air,2020-07-23 13:10:00,2020-07-23 12:41:00
+Air Canada,5596,San Diego| CA,Term 1 - B11,In Air,2020-07-23 13:10:00,2020-07-23 12:41:00
+Aer Lingus,6209,San Diego| CA,Term 1 - B11,In Air,2020-07-23 13:10:00,2020-07-23 12:41:00
+All Nippon Airways,7537,Evansville| IN,Term 2 - F12,Scheduled,2020-07-23 13:10:00,2020-07-23 13:10:00
+Austrian Airlines,7734,Denver| CO,Term 1 - C20,Scheduled,2020-07-23 13:10:00,2020-07-23 13:04:00
+Scandinavian Airlines,8760,Denver| CO,Term 1 - C20,Scheduled,2020-07-23 13:10:00,2020-07-23 13:04:00
+Air New Zealand,9807,Toronto,Term 2 - F21,Scheduled,2020-07-23 13:10:00,2020-07-23 13:10:00
+Air New Zealand,2202,Columbus| OH,Term 1 - C30,Scheduled,2020-07-23 13:11:00,2020-07-23 13:11:00
+Air Canada,3041,Milwaukee| WI,Term 2 - F24,Scheduled,2020-07-23 13:11:00,2020-07-23 13:11:00
+United Airlines,4422,Louisville| KY,Term 2 - F23,Scheduled,2020-07-23 13:11:00,2020-07-23 13:11:00
+All Nippon Airways,7423,Columbus| OH,Term 1 - C30,Scheduled,2020-07-23 13:11:00,2020-07-23 13:11:00
+Scandinavian Airlines,8860,Columbus| OH,Term 1 - C30,Scheduled,2020-07-23 13:11:00,2020-07-23 13:11:00
+Lufthansa,9133,Louisville| KY,Term 2 - F23,Scheduled,2020-07-23 13:11:00,2020-07-23 13:11:00
+United Airlines,708,Seattle| WA,Term 1 - B4,In Air,2020-07-23 13:12:00,2020-07-23 12:54:00
+Scandinavian Airlines,3922,Los Angeles| CA,Term 1 - C9,In Air,2020-07-23 13:12:00,2020-07-23 13:04:00
+LOT Polish Airlines,4404,Seattle| WA,Term 1 - B4,In Air,2020-07-23 13:12:00,2020-07-23 12:54:00
+Aer Lingus,6158,Los Angeles| CA,Term 1 - C9,In Air,2020-07-23 13:12:00,2020-07-23 13:04:00
+Air China,7274,Los Angeles| CA,Term 1 - C9,In Air,2020-07-23 13:12:00,2020-07-23 13:04:00
+Lufthansa,7542,Los Angeles| CA,Term 1 - C9,In Air,2020-07-23 13:12:00,2020-07-23 13:04:00
+Austrian Airlines,7706,Los Angeles| CA,Term 1 - C9,In Air,2020-07-23 13:12:00,2020-07-23 13:04:00
+Air New Zealand,9665,Los Angeles| CA,Term 1 - C9,In Air,2020-07-23 13:12:00,2020-07-23 13:04:00
+Delta Air Lines,1065,New York| NY,Term 2 - E16,Scheduled,2020-07-23 13:15:00,2020-07-23 12:53:00
+Air New Zealand,2300,Des Moines| IA,Term 1 - C17,Scheduled,2020-07-23 13:15:00,2020-07-23 13:15:00
+United Airlines,3627,Des Moines| IA,Term 1 - C17,Scheduled,2020-07-23 13:15:00,2020-07-23 13:15:00
+Air Canada,5383,Des Moines| IA,Term 1 - C17,Scheduled,2020-07-23 13:15:00,2020-07-23 13:15:00
+Gulf Air,6468,Orange County| CA,Term T3 - K8,In Air,2020-07-23 13:15:00,2020-07-23 13:00:00
+Lufthansa,8763,Des Moines| IA,Term 1 - C17,Scheduled,2020-07-23 13:15:00,2020-07-23 13:15:00
+Scandinavian Airlines,9800,Des Moines| IA,Term 1 - C17,Scheduled,2020-07-23 13:15:00,2020-07-23 13:15:00
+Air Canada,3090,Nashville| TN,Term 1 - B20,Scheduled,2020-07-23 13:16:00,2020-07-23 13:16:00
+United Airlines,5112,Muskegon| MI,Term 1 - B24,Scheduled,2020-07-23 13:16:00,2020-07-23 13:16:00
+Lufthansa,8535,Nashville| TN,Term 1 - B20,Scheduled,2020-07-23 13:16:00,2020-07-23 13:16:00
+Air New Zealand,2322,Detroit| MI,Term 1 - B10,Scheduled,2020-07-23 13:17:00,2020-07-23 13:17:00
+Air Canada,4042,Detroit| MI,Term 1 - B10,Scheduled,2020-07-23 13:17:00,2020-07-23 13:17:00
+United Airlines,5543,Detroit| MI,Term 1 - B10,Scheduled,2020-07-23 13:17:00,2020-07-23 13:17:00
+Aer Lingus,6071,Detroit| MI,Term 1 - B10,Scheduled,2020-07-23 13:17:00,2020-07-23 13:17:00
+Lufthansa,7473,Detroit| MI,Term 1 - B10,Scheduled,2020-07-23 13:17:00,2020-07-23 13:17:00
+All Nippon Airways,7787,Boston| MA,Term 1 - B18,Scheduled,2020-07-23 13:17:00,2020-07-23 13:12:00
+Scandinavian Airlines,9756,Boston| MA,Term 1 - B18,Scheduled,2020-07-23 13:17:00,2020-07-23 13:12:00
+Air New Zealand,2272,Washington| DC,Term 1 - C28,Scheduled,2020-07-23 13:19:00,2020-07-23 13:19:00
+Scandinavian Airlines,9796,Washington| DC,Term 1 - C28,Scheduled,2020-07-23 13:19:00,2020-07-23 13:19:00
+United Airlines,5126,Hancock| MI,Term 2 - E12,Scheduled,2020-07-23 13:20:00,2020-07-23 13:20:00
+Air Canada,5904,San Francisco| CA,Term 1 - C21,In Air,2020-07-23 13:20:00,2020-07-23 13:18:00
+Austrian Airlines,7718,San Francisco| CA,Term 1 - C21,In Air,2020-07-23 13:20:00,2020-07-23 13:18:00
+Lufthansa,7785,San Francisco| CA,Term 1 - C21,In Air,2020-07-23 13:20:00,2020-07-23 13:18:00
+Air New Zealand,9306,San Francisco| CA,Term 1 - C21,In Air,2020-07-23 13:20:00,2020-07-23 13:18:00
+American Airlines,3643,Sioux City| IA,Term T3 - G8,Scheduled,2020-07-23 13:34:00,2020-07-23 13:34:00
+All Nippon Airways,7006,Tokyo,INTL,In Air,2020-07-23 13:40:00,2020-07-23 12:48:00
+SriLankan Airlines,3170,Doha,Term 5,In Air,2020-07-23 13:45:00,2020-07-23 13:17:00
+Qatar Airways,2936,Baltimore| MD,Term T3 - G3,Scheduled,2020-07-23 13:51:00,2020-07-23 13:51:00
+Alaska Airlines,4649,Baltimore| MD,Term T3 - G3,Scheduled,2020-07-23 13:51:00,2020-07-23 13:51:00
+Gulf Air,4302,Jacksonville| FL,Term T3 - L23,Delayed,2020-07-23 13:52:00,2020-07-23 15:16:00
+Qatar Airways,7624,Jacksonville| FL,Term T3 - L23,Delayed,2020-07-23 13:52:00,2020-07-23 15:16:00
+Alaska Airlines,4293,Washington| DC,Term T3 - K20,Scheduled,2020-07-23 13:53:00,2020-07-23 13:53:00
+American Airlines,3276,Grand Rapids| MI,Term T3 - G5,Scheduled,2020-07-23 13:54:00,2020-07-23 13:54:00
+British Airways,6796,Grand Rapids| MI,Term T3 - G5,Scheduled,2020-07-23 13:54:00,2020-07-23 13:54:00
+American Airlines,4167,White Plains| NY,Term T3 - L10A,Scheduled,2020-07-23 13:58:00,2020-07-23 13:58:00
+Qatar Airways,7726,White Plains| NY,Term T3 - L10A,Scheduled,2020-07-23 13:58:00,2020-07-23 13:58:00
+American Airlines,4182,Marquette| MI,Term T3 - G12,Scheduled,2020-07-23 13:59:00,2020-07-23 13:59:00
+British Airways,5285,Columbus| OH,Term T3 - G20,Scheduled,2020-07-23 13:59:00,2020-07-23 13:59:00
+Qatar Airways,7825,Marquette| MI,Term T3 - G12,Scheduled,2020-07-23 13:59:00,2020-07-23 13:59:00
+British Airways,1885,El Paso| TX,Term T3 - L23,Scheduled,2020-07-23 14:00:00,2020-07-23 14:00:00
+Alaska Airlines,4236,El Paso| TX,Term T3 - L23,Scheduled,2020-07-23 14:00:00,2020-07-23 14:00:00
+American Airlines,2881,Las Vegas| NV,Term T3 - K6,Scheduled,2020-07-23 14:02:00,2020-07-23 14:07:00
+Gulf Air,6612,Las Vegas| NV,Term T3 - K6,Scheduled,2020-07-23 14:02:00,2020-07-23 14:07:00
+American Airlines,4522,Fayetteville/Springdale/| AR,Term T3 - L4,Scheduled,2020-07-23 14:03:00,2020-07-23 14:03:00
+Qatar Airways,7623,Fayetteville/Springdale/| AR,Term T3 - L4,Scheduled,2020-07-23 14:03:00,2020-07-23 14:03:00
+British Airways,1757,Nashville| TN,Term T3 - G11,Scheduled,2020-07-23 14:04:00,2020-07-23 14:04:00
+Qatar Airways,2782,Denver| CO,Term T3 - H11B,Scheduled,2020-07-23 14:04:00,2020-07-23 14:04:00
+American Airlines,3100,Nashville| TN,Term T3 - G11,Scheduled,2020-07-23 14:04:00,2020-07-23 14:04:00
+Virgin Atlantic,4410,Salt Lake City| UT,Term 2 - E15,Scheduled,2020-07-23 14:04:00,2020-07-23 14:04:00
+Gulf Air,6858,Denver| CO,Term T3 - H11B,Scheduled,2020-07-23 14:04:00,2020-07-23 14:04:00
+AeroMexico,686,Mexico City,Term 5,Departed,2020-07-23 14:05:00,2020-07-23 13:33:00
+Qatar Airways,2728,Philadelphia| PA,Term T3 - H8,Scheduled,2020-07-23 14:05:00,2020-07-23 14:05:00
+American Airlines,3296,Kansas City| MO,Term T3 - G1B,Scheduled,2020-07-23 14:06:00,2020-07-23 14:06:00
+British Airways,5062,Kansas City| MO,Term T3 - G1B,Scheduled,2020-07-23 14:06:00,2020-07-23 14:06:00
+Alaska Airlines,4618,Omaha| NE,Term T3 - L2A,Scheduled,2020-07-23 14:07:00,2020-07-23 14:07:00
+Gulf Air,6738,Omaha| NE,Term T3 - L2A,Scheduled,2020-07-23 14:07:00,2020-07-23 14:07:00
+American Airlines,3248,St Louis| MO,Term T3 - G13,Scheduled,2020-07-23 14:08:00,2020-07-23 14:08:00
+British Airways,4681,St Louis| MO,Term T3 - G13,Scheduled,2020-07-23 14:08:00,2020-07-23 14:08:00
+American Airlines,1049,Seattle| WA,Term T3 - H16,Scheduled,2020-07-23 14:09:00,2020-07-23 14:21:00
+Qatar Airways,2870,San Jose| CA,Term T3 - H9,Scheduled,2020-07-23 14:09:00,2020-07-23 14:19:00
+Alaska Airlines,4552,Moline| IL,Term T3 - G14A,Scheduled,2020-07-23 14:09:00,2020-07-23 14:09:00
+Gulf Air,6660,Seattle| WA,Term T3 - H16,Scheduled,2020-07-23 14:09:00,2020-07-23 14:21:00
+British Airways,6697,San Jose| CA,Term T3 - H9,Scheduled,2020-07-23 14:09:00,2020-07-23 14:19:00
+Malaysia Airlines,9388,Seattle| WA,Term T3 - H16,Scheduled,2020-07-23 14:09:00,2020-07-23 14:21:00
+JetBlue Airways,566,Fort Lauderdale| FL, ,Scheduled,2020-07-23 14:10:00,
+Qatar Airways,2380,San Diego| CA,Term T3 - K12,Scheduled,2020-07-23 14:10:00,2020-07-23 14:15:00
+American Airlines,4502,Memphis| TN,Term T3 - L20,Scheduled,2020-07-23 14:10:00,2020-07-23 14:10:00
+British Airways,6935,San Diego| CA,Term T3 - K12,Scheduled,2020-07-23 14:10:00,2020-07-23 14:15:00
+Qatar Airways,2770,Raleigh/Durham| NC,Term T3 - H17,Scheduled,2020-07-23 14:12:00,2020-07-23 14:12:00
+American Airlines,4133,Portland| ME,Term T3 - H4,Scheduled,2020-07-23 14:12:00,2020-07-23 14:12:00
+British Airways,5549,New York| NY,Term T3 - H10,Scheduled,2020-07-23 14:12:00,2020-07-23 14:12:00
+American Airlines,3491,Richmond| VA,Term T3 - H1A,Scheduled,2020-07-23 14:13:00,2020-07-23 14:13:00
+British Airways,4710,Richmond| VA,Term T3 - H1A,Scheduled,2020-07-23 14:13:00,2020-07-23 14:13:00
+American Airlines,1650,Charlotte| NC,Term T3 - H14,Scheduled,2020-07-23 14:14:00,2020-07-23 14:14:00
+British Airways,5502,Charlotte| NC,Term T3 - H14,Scheduled,2020-07-23 14:14:00,2020-07-23 14:14:00
+American Airlines,4121,Traverse City| MI,Term T3 - L1B,Scheduled,2020-07-23 14:15:00,2020-07-23 14:15:00
+Alaska Airlines,4681,Traverse City| MI,Term T3 - L1B,Scheduled,2020-07-23 14:15:00,2020-07-23 14:15:00
+Qatar Airways,7642,Dayton| OH,Term T3 - G7,Scheduled,2020-07-23 14:15:00,2020-07-23 14:15:00
+Qatar Airways,7846,Wilmington| NC,Term T3 - L3,Scheduled,2020-07-23 14:17:00,2020-07-23 14:17:00
+American Airlines,3850,La Crosse| WI,Term T3 - L1A,Scheduled,2020-07-23 14:19:00,2020-07-23 14:19:00
+Alaska Airlines,4211,Des Moines| IA,Term T3 - G18,Scheduled,2020-07-23 14:19:00,2020-07-23 14:19:00
+British Airways,4734,Des Moines| IA,Term T3 - G18,Scheduled,2020-07-23 14:19:00,2020-07-23 14:19:00
+Gulf Air,6730,Tulsa| OK,Term T3 - L8,Scheduled,2020-07-23 14:19:00,2020-07-23 14:19:00
+Qatar Airways,7814,La Crosse| WI,Term T3 - L1A,Scheduled,2020-07-23 14:19:00,2020-07-23 14:19:00
+American Airlines,4126,Fargo| ND,Term T3 - G1A,Scheduled,2020-07-23 14:20:00,2020-07-23 14:20:00
+Gulf Air,4223,Portland| OR,Term T3 - K10,Scheduled,2020-07-23 14:20:00,2020-07-23 14:29:00
+British Airways,6632,Wichita| KS,Term T3 - L6A,Scheduled,2020-07-23 14:20:00,2020-07-23 14:20:00
+Qatar Airways,7875,Springfield| MO,Term T3 - H3A,Scheduled,2020-07-23 14:20:00,2020-07-23 14:20:00
+Spirit Airlines,105,Cancun,Term 3 - M,Scheduled,2020-07-23 14:29:00,2020-07-23 14:50:00
+Volaris,2144,Phoenix| AZ,Term 5 - M2,Scheduled,2020-07-23 14:32:00,2020-07-23 14:14:00
+United Airlines,928,London,INTL,In Air,2020-07-23 15:15:00,2020-07-23 14:11:00
+Air Canada,5363,London,INTL,In Air,2020-07-23 15:15:00,2020-07-23 14:11:00
+Brussels Airlines,9087,London,INTL,In Air,2020-07-23 15:15:00,2020-07-23 14:11:00
+American Airlines,3211,Nashville| TN,Term T3 - G17,Arrived,2020-07-24 09:15:00,2020-07-24 11:51:00
+CK,227,Anchorage| AK, ,In Air,2020-07-24 10:45:00,2020-07-24 13:06:00
+Air Choice One,2106,Mason City| IA,Term 3,No Recent Info - Call Airline,2020-07-24 11:30:00,
+American Airlines,2754,Dallas-Fort Worth| TX,Term T3 - H17,Arrived,2020-07-24 12:04:00,2020-07-24 11:25:00
+Alaska Airlines,4102,New York| NY,Term T3 - H14,Arrived,2020-07-24 12:13:00,2020-07-24 11:19:00
+Alaska Airlines,4044,Jacksonville| FL,Term T3 - L6A,Arrived,2020-07-24 12:15:00,2020-07-24 11:49:00
+British Airways,6529,Kansas City| MO,Term T3 - L2A,Arrived,2020-07-24 12:15:00,2020-07-24 11:59:00
+Qatar Airways,2423,San Francisco| CA,Term T3 - H18,Arrived,2020-07-24 12:19:00,2020-07-24 12:13:00
+Scandinavian Airlines,943,Copenhagen,Term 5,Arrived,2020-07-24 12:20:00,2020-07-24 11:57:00
+Malaysia Airlines,9449,Los Angeles| CA,Term T3 - K12,Arrived,2020-07-24 12:21:00,2020-07-24 12:15:00
+American Airlines,3338,Columbus| OH,Term T3 - L20,Arrived,2020-07-24 12:22:00,2020-07-24 12:11:00
+Iberia Airlines,4035,Lexington| KY,Term T3 - G8,Arrived,2020-07-24 12:23:00,2020-07-24 11:57:00
+Alaska Airlines,6040,Lexington| KY,Term T3 - G8,Arrived,2020-07-24 12:23:00,2020-07-24 11:57:00
+Gulf Air,4158,Pittsburgh| PA,Term T3 - K1,Arrived,2020-07-24 12:24:00,2020-07-24 11:52:00
+Delta Air Lines,1708,Atlanta| GA,Term 2 - E11,Arrived,2020-07-24 12:25:00,2020-07-24 12:18:00
+AeroMexico,3024,Atlanta| GA,Term 2 - E11,Arrived,2020-07-24 12:25:00,2020-07-24 12:18:00
+Qatar Airways,9269,Miami| FL,Term T3 - K19,Arrived,2020-07-24 12:25:00,2020-07-24 12:22:00
+Qantas Airways,3305,Toronto,Term T3 - L4,Arrived,2020-07-24 12:26:00,2020-07-24 12:18:00
+Alaska Airlines,4036,Toronto,Term T3 - L4,Arrived,2020-07-24 12:26:00,2020-07-24 12:18:00
+Qatar Airways,2438,Nashville| TN,Term T3 - H11B,Arrived,2020-07-24 12:27:00,2020-07-24 12:22:00
+British Airways,4374,Nashville| TN,Term T3 - H11B,Arrived,2020-07-24 12:27:00,2020-07-24 12:22:00
+Alaska Airlines,4648,Milwaukee| WI,Term T3 - G11,Arrived,2020-07-24 12:28:00,2020-07-24 12:14:00
+United Airlines,484,Washington| DC,Term 1 - C9,Arrived,2020-07-24 12:31:00,2020-07-24 11:51:00
+British Airways,5460,San Diego| CA,Term T3 - K13,Arrived,2020-07-24 12:31:00,2020-07-24 12:04:00
+British Airways,1787,Reno| NV,Term T3 - K18,Landed,2020-07-24 12:32:00,2020-07-24 12:23:00
+American Airlines,3174,Green Bay| WI,Term T3 - G13,Arrived,2020-07-24 12:34:00,2020-07-24 12:16:00
+American Airlines,3641,Dubuque| IA,Term T3 - L3,Arrived,2020-07-24 12:35:00,2020-07-24 12:22:00
+Lufthansa,7791,Aspen| CO,Term 1 - B23,Landed,2020-07-24 12:35:00,2020-07-24 12:21:00
+American Airlines,3303,Newark| NJ,Term T3 - L6B,Arrived,2020-07-24 12:36:00,2020-07-24 12:23:00
+Alaska Airlines,4542,Newark| NJ,Term T3 - L6B,Arrived,2020-07-24 12:36:00,2020-07-24 12:23:00
+United Airlines,504,Fort Lauderdale| FL,Term 1 - C19,Arrived,2020-07-24 12:37:00,2020-07-24 12:03:00
+Scandinavian Airlines,9806,Fort Lauderdale| FL,Term 1 - C19,Arrived,2020-07-24 12:37:00,2020-07-24 12:03:00
+Alaska Airlines,4251,Madison| WI,Term T3 - G3,Arrived,2020-07-24 12:39:00,2020-07-24 12:23:00
+Qatar Airways,2461,Orlando| FL,Term T3 - H9,Landed,2020-07-24 12:40:00,2020-07-24 12:22:00
+Air New Zealand,2602,Memphis| TN,Term 2 - F19,Landed,2020-07-24 12:43:00,2020-07-24 12:27:00
+United Airlines,4404,Memphis| TN,Term 2 - F19,Landed,2020-07-24 12:43:00,2020-07-24 12:27:00
+All Nippon Airways,7757,Memphis| TN,Term 2 - F19,Landed,2020-07-24 12:43:00,2020-07-24 12:27:00
+Air New Zealand,2792,Raleigh/Durham| NC,Term 1 - C22,Landed,2020-07-24 12:44:00,2020-07-24 12:21:00
+All Nippon Airways,7781,Raleigh/Durham| NC,Term 1 - C22,Landed,2020-07-24 12:44:00,2020-07-24 12:21:00
+Scandinavian Airlines,9842,Raleigh/Durham| NC,Term 1 - C22,Landed,2020-07-24 12:44:00,2020-07-24 12:21:00
+Qatar Airways,2851,Indianapolis| IN,Term T3 - L21,Landed,2020-07-24 12:45:00,2020-07-24 12:24:00
+American Airlines,4494,Indianapolis| IN,Term T3 - L21,Landed,2020-07-24 12:45:00,2020-07-24 12:24:00
+British Airways,5533,Indianapolis| IN,Term T3 - L21,Landed,2020-07-24 12:45:00,2020-07-24 12:24:00
+Air Canada,5539,Pittsburgh| PA,Term 1 - C5,In Air,2020-07-24 12:46:00,2020-07-24 12:34:00
+Scandinavian Airlines,8756,Pittsburgh| PA,Term 1 - C5,In Air,2020-07-24 12:46:00,2020-07-24 12:34:00
+American Airlines,2928,Dallas-Fort Worth| TX,Term T3 - K8,Landed,2020-07-24 12:49:00,2020-07-24 12:25:00
+Aer Lingus,6852,Little Rock| AR,Term 2 - F27,Arrived,2020-07-24 12:50:00,2020-07-24 12:24:00
+Lufthansa,8923,St Louis| MO,Term 2 - F15,In Air,2020-07-24 12:50:00,2020-07-24 12:29:00
+Air New Zealand,2342,Newark| NJ,Term 1 - B14,In Air,2020-07-24 12:51:00,2020-07-24 12:58:00
+Air Canada,5206,Newark| NJ,Term 1 - B14,In Air,2020-07-24 12:51:00,2020-07-24 12:58:00
+Aer Lingus,6817,Sioux Falls| SD,Term 2 - F6,Arrived,2020-07-24 12:51:00,2020-07-24 12:22:00
+Air New Zealand,2722,Norfolk| VA,Term 1 - C30,Landed,2020-07-24 12:52:00,2020-07-24 12:27:00
+United Airlines,3409,Norfolk| VA,Term 1 - C30,Landed,2020-07-24 12:52:00,2020-07-24 12:27:00
+United Airlines,4415,Cincinnati| OH,Term 2 - F25,Landed,2020-07-24 12:53:00,2020-07-24 12:26:00
+Austrian Airlines,7714,Cleveland| OH,Term 1 - C29,In Air,2020-07-24 12:53:00,2020-07-24 12:34:00
+Turkish Airlines,9566,Cleveland| OH,Term 1 - C29,In Air,2020-07-24 12:53:00,2020-07-24 12:34:00
+Air New Zealand,2738,Philadelphia| PA,Term 1 - B6,In Air,2020-07-24 12:54:00,2020-07-24 12:36:00
+Scandinavian Airlines,9830,Philadelphia| PA,Term 1 - B6,In Air,2020-07-24 12:54:00,2020-07-24 12:36:00
+Aer Lingus,6087,Houston| TX,Term 1 - C20,In Air,2020-07-24 12:55:00,2020-07-24 12:33:00
+Air New Zealand,6841,Houston| TX,Term 1 - C20,In Air,2020-07-24 12:55:00,2020-07-24 12:33:00
+Austrian Airlines,7730,Houston| TX,Term 1 - C20,In Air,2020-07-24 12:55:00,2020-07-24 12:33:00
+United Airlines,3573,Minneapolis| MN,Term 1 - C1,Landed,2020-07-24 12:56:00,2020-07-24 12:19:00
+Scandinavian Airlines,3962,Minneapolis| MN,Term 1 - C1,Landed,2020-07-24 12:56:00,2020-07-24 12:19:00
+Lufthansa,7999,Minneapolis| MN,Term 1 - C1,Landed,2020-07-24 12:56:00,2020-07-24 12:19:00
+United Airlines,5259,Baltimore| MD,Term 1 - B19,In Air,2020-07-24 12:58:00,2020-07-24 12:35:00
+Aer Lingus,6373,Sacramento| CA,Term 1 - B9,In Air,2020-07-24 12:58:00,2020-07-24 12:29:00
+Scandinavian Airlines,8888,Sacramento| CA,Term 1 - B9,In Air,2020-07-24 12:58:00,2020-07-24 12:29:00
+Air Canada,5913,Dallas-Fort Worth| TX,Term 1 - C28,Landed,2020-07-24 12:59:00,2020-07-24 12:22:00
+All Nippon Airways,7573,New York| NY,Term 1 - B11,Landed,2020-07-24 12:59:00,2020-07-24 12:23:00
+Cargolux Airlines,4355,Hong Kong, ,LandedDiversion,2020-07-24 13:00:00,
+Air India,8637,Frankfurt,Term 5,Arrived,2020-07-24 13:00:00,2020-07-24 12:24:00
+Lufthansa,9099,Moline| IL,Term 2 - E1,In Air,2020-07-24 13:00:00,2020-07-24 12:28:00
+Air New Zealand,2022,Atlanta| GA,Term 1 - C3,In Air,2020-07-24 13:01:00,2020-07-24 12:52:00
+Lufthansa,7445,Atlanta| GA,Term 1 - C3,In Air,2020-07-24 13:01:00,2020-07-24 12:52:00
+Scandinavian Airlines,9747,Atlanta| GA,Term 1 - C3,In Air,2020-07-24 13:01:00,2020-07-24 12:52:00
+Aer Lingus,6691,Orange County| CA,Term 1 - C24,In Air,2020-07-24 13:02:00,2020-07-24 12:39:00
+Aer Lingus,6133,Phoenix| AZ,Term 1 - B10,Landed,2020-07-24 13:03:00,2020-07-24 12:27:00
+All Nippon Airways,7727,Orlando| FL,Term 1 - B7,In Air,2020-07-24 13:03:00,2020-07-24 12:30:00
+Air Canada,4295,Austin| TX,Term 1 - B4,In Air,2020-07-24 13:04:00,2020-07-24 12:54:00
+Aer Lingus,6263,Austin| TX,Term 1 - B4,In Air,2020-07-24 13:04:00,2020-07-24 12:54:00
+Lufthansa,7685,Austin| TX,Term 1 - B4,In Air,2020-07-24 13:04:00,2020-07-24 12:54:00
+United Airlines,4385,Grand Rapids| MI,Term 2 - F21,In Air,2020-07-24 13:05:00,2020-07-24 12:33:00
+Lufthansa,9411,Grand Rapids| MI,Term 2 - F21,In Air,2020-07-24 13:05:00,2020-07-24 12:33:00
+United Airlines,3576,Charleston| SC,Term 1 - C6,In Air,2020-07-24 13:06:00,2020-07-24 13:08:00
+All Nippon Airways,7251,Charleston| SC,Term 1 - C6,In Air,2020-07-24 13:06:00,2020-07-24 13:08:00
+Air New Zealand,2926,Tulsa| OK,Term 1 - B2,In Air,2020-07-24 13:07:00,2020-07-24 12:46:00
+United Airlines,5584,Tulsa| OK,Term 1 - B2,In Air,2020-07-24 13:07:00,2020-07-24 12:46:00
+All Nippon Airways,7611,Tulsa| OK,Term 1 - B2,In Air,2020-07-24 13:07:00,2020-07-24 12:46:00
+Air New Zealand,2650,Madison| WI,Term 2 - E4,In Air,2020-07-24 13:08:00,2020-07-24 12:35:00
+Aer Lingus,6872,Madison| WI,Term 2 - E4,In Air,2020-07-24 13:08:00,2020-07-24 12:35:00
+Air New Zealand,2488,Indianapolis| IN,Term 2 - F28,In Air,2020-07-24 13:09:00,2020-07-24 12:43:00
+United Airlines,5670,Salt Lake City| UT,Term 1 - B1,In Air,2020-07-24 13:09:00,2020-07-24 12:48:00
+All Nippon Airways,7605,Indianapolis| IN,Term 2 - F28,In Air,2020-07-24 13:09:00,2020-07-24 12:43:00
+Scandinavian Airlines,9852,Salt Lake City| UT,Term 1 - B1,In Air,2020-07-24 13:09:00,2020-07-24 12:48:00
+Lufthansa,9147,San Diego| CA,Term 1 - B8,Landed,2020-07-24 13:10:00,2020-07-24 12:24:00
+Aer Lingus,6317,Louisville| KY,Term 2 - F4,In Air,2020-07-24 13:11:00,2020-07-24 12:44:00
+Air China,7274,Los Angeles| CA,Term 1 - B5,In Air,2020-07-24 13:12:00,2020-07-24 12:35:00
+Air New Zealand,9665,Los Angeles| CA,Term 1 - B5,In Air,2020-07-24 13:12:00,2020-07-24 12:35:00
+Delta Air Lines,1065,New York| NY,Term 2 - E15,In Air,2020-07-24 13:15:00,2020-07-24 12:35:00
+Air New Zealand,2300,Des Moines| IA,Term 1 - C21,In Air,2020-07-24 13:15:00,2020-07-24 12:56:00
+Air Canada,5383,Des Moines| IA,Term 1 - C21,In Air,2020-07-24 13:15:00,2020-07-24 12:56:00
+Gulf Air,6468,Orange County| CA,Term T3 - K10,In Air,2020-07-24 13:15:00,2020-07-24 12:46:00
+Scandinavian Airlines,9800,Des Moines| IA,Term 1 - C21,In Air,2020-07-24 13:15:00,2020-07-24 12:56:00
+Air Canada,3090,Nashville| TN,Term 1 - B21,In Air,2020-07-24 13:16:00,2020-07-24 12:52:00
+Lufthansa,8535,Nashville| TN,Term 1 - B21,In Air,2020-07-24 13:16:00,2020-07-24 12:52:00
+Aer Lingus,6071,Detroit| MI,Term 1 - B3,In Air,2020-07-24 13:17:00,2020-07-24 12:49:00
+Lufthansa,7473,Detroit| MI,Term 1 - B3,In Air,2020-07-24 13:17:00,2020-07-24 12:49:00
+Air New Zealand,2272,Washington| DC,Term 1 - C31,In Air,2020-07-24 13:19:00,2020-07-24 12:35:00
+Scandinavian Airlines,9796,Washington| DC,Term 1 - C31,In Air,2020-07-24 13:19:00,2020-07-24 12:35:00
+Air Canada,5366,San Francisco| CA,Term 1 - C17,In Air,2020-07-24 13:20:00,2020-07-24 12:46:00
+Austrian Airlines,7718,San Francisco| CA,Term 1 - C17,In Air,2020-07-24 13:20:00,2020-07-24 12:46:00
+Air New Zealand,9309,San Francisco| CA,Term 1 - C17,In Air,2020-07-24 13:20:00,2020-07-24 12:46:00
+United Airlines,882,Tokyo,Term 5 - M11,In Air,2020-07-24 13:40:00,2020-07-24 13:04:00
+Qatar Airways,725,Doha,Term 5,In Air,2020-07-24 13:45:00,2020-07-24 13:29:00
+Malaysia Airlines,9073,Doha,Term 5,In Air,2020-07-24 13:45:00,2020-07-24 13:29:00
+American Airlines,3219,Baltimore| MD,Term T3 - K2,In Air,2020-07-24 13:51:00,2020-07-24 13:09:00
+American Airlines,3556,Jacksonville| FL,Term T3 - L10C,In Air,2020-07-24 13:52:00,2020-07-24 13:18:00
+Alaska Airlines,4573,Jacksonville| FL,Term T3 - L10C,In Air,2020-07-24 13:52:00,2020-07-24 13:18:00
+American Airlines,985,Washington| DC,Term T3 - K20,In Air,2020-07-24 13:53:00,2020-07-24 13:07:00
+British Airways,4910,Washington| DC,Term T3 - K20,In Air,2020-07-24 13:53:00,2020-07-24 13:07:00
+Alaska Airlines,4031,Grand Rapids| MI,Term T3 - G19A,Delayed,2020-07-24 13:54:00,2020-07-24 15:33:00
+Qatar Airways,7603,Grand Rapids| MI,Term T3 - G19A,Delayed,2020-07-24 13:54:00,2020-07-24 15:33:00
+Alaska Airlines,4710,White Plains| NY,Term T3 - L6A,In Air,2020-07-24 13:58:00,2020-07-24 13:18:00
+Alaska Airlines,4690,Oklahoma City| OK,Term T3 - H1B,In Air,2020-07-24 13:59:00,2020-07-24 13:35:00
+Japan Airlines,7497,Columbus| OH,Term T3 - G14A,Scheduled,2020-07-24 13:59:00,2020-07-24 14:02:00
+British Airways,1885,El Paso| TX,Term T3 - K3,In Air,2020-07-24 14:00:00,2020-07-24 13:31:00
+Alaska Airlines,4233,El Paso| TX,Term T3 - K3,In Air,2020-07-24 14:00:00,2020-07-24 13:31:00
+American Airlines,2881,Las Vegas| NV,Term T3 - H11A,In Air,2020-07-24 14:02:00,2020-07-24 13:26:00
+Alaska Airlines,4208,Fayetteville/Springdale/| AR,Term T3 - L4,Departed,2020-07-24 14:03:00,2020-07-24 14:01:00
+British Airways,4968,Fayetteville/Springdale/| AR,Term T3 - L4,Departed,2020-07-24 14:03:00,2020-07-24 14:01:00
+Delta Air Lines,1286,Salt Lake City| UT,Term 2 - E14,In Air,2020-07-24 14:04:00,2020-07-24 13:40:00
+Alaska Airlines,4589,Nashville| TN,Term T3 - G19A,In Air,2020-07-24 14:04:00,2020-07-24 13:29:00
+KLM Royal Dutch Airlines,7873,Salt Lake City| UT,Term 2 - E14,In Air,2020-07-24 14:04:00,2020-07-24 13:40:00
+American Airlines,2608,Philadelphia| PA,Term T3 - K9,In Air,2020-07-24 14:05:00,2020-07-24 13:19:00
+Delta Air Lines,8052,Mexico City,Term 5,In Air,2020-07-24 14:05:00,2020-07-24 13:20:00
+Alaska Airlines,4160,Kansas City| MO,Term T3 - G13,Departed,2020-07-24 14:06:00,2020-07-24 13:55:00
+American Airlines,4270,Omaha| NE,Term T3 - L21,Departed,2020-07-24 14:07:00,2020-07-24 14:01:00
+British Airways,5283,Omaha| NE,Term T3 - L21,Departed,2020-07-24 14:07:00,2020-07-24 14:01:00
+Qatar Airways,2800,St Louis| MO,Term T3 - G5,Scheduled,2020-07-24 14:08:00,2020-07-24 14:08:00
+Alaska Airlines,4000,St Louis| MO,Term T3 - G5,Scheduled,2020-07-24 14:08:00,2020-07-24 14:08:00
+Gulf Air,6652,St Louis| MO,Term T3 - G5,Scheduled,2020-07-24 14:08:00,2020-07-24 14:08:00
+Qantas Airways,4787,Minneapolis| MN,Term T3 - L10A,Departed,2020-07-24 14:09:00,2020-07-24 14:02:00
+British Airways,6935,San Diego| CA,Term T3 - K12,In Air,2020-07-24 14:10:00,2020-07-24 13:31:00
+British Airways,5549,New York| NY,Term T3 - H6,In Air,2020-07-24 14:12:00,2020-07-24 13:10:00
+American Airlines,3491,Richmond| VA,Term T3 - L1B,In Air,2020-07-24 14:13:00,2020-07-24 13:46:00
+British Airways,4710,Richmond| VA,Term T3 - L1B,In Air,2020-07-24 14:13:00,2020-07-24 13:46:00
+American Airlines,1650,Charlotte| NC,Term T3 - H14,In Air,2020-07-24 14:14:00,2020-07-24 13:38:00
+British Airways,5502,Charlotte| NC,Term T3 - H14,In Air,2020-07-24 14:14:00,2020-07-24 13:38:00
+Japan Airlines,7337,Dayton| OH,Term T3 - G8,Scheduled,2020-07-24 14:15:00,2020-07-24 14:14:00
+American Airlines,3648,Wilmington| NC,Term T3 - L22,Delayed,2020-07-24 14:17:00,2020-07-24 15:25:00
+Qantas Airways,3325,San Francisco| CA,Term T3 - H5,In Air,2020-07-24 14:20:00,2020-07-24 13:53:00
+Alaska Airlines,4135,Fargo| ND,Term T3 - G11,Delayed,2020-07-24 14:20:00,2020-07-24 16:31:00
+Malaysia Airlines,9469,Portland| OR,Term T3 - K18,In Air,2020-07-24 14:20:00,2020-07-24 13:52:00
+Frontier Airlines,1422,Miami| FL,Term 5 - M2,In Air,2020-07-24 14:24:00,2020-07-24 13:52:00
+Spirit Airlines,105,Cancun,Term 3 - M,In Air,2020-07-24 14:29:00,2020-07-24 14:42:00
+British Airways,5389,Dallas-Fort Worth| TX,Term T3 - K13,Departed,2020-07-24 14:46:00,2020-07-24 14:39:00
+Volaris,2341,Orlando| FL,Term 5 - M1,In Air,2020-07-24 14:53:00,2020-07-24 14:11:00
+Aer Lingus,123,Dublin,Term 5,In Air,2020-07-24 14:55:00,2020-07-24 13:52:00
+Thai Airways,6176,Tokyo,Term 5,In Air,2020-07-24 14:55:00,2020-07-24 14:49:00
+Etihad Airways,7966,Dublin,Term 5,In Air,2020-07-24 14:55:00,2020-07-24 13:52:00
+LOT Polish Airlines,4350,Denver| CO,Term 1 - C23,Scheduled,2020-07-24 15:10:00,2020-07-24 15:01:00
+Aer Lingus,6056,Denver| CO,Term 1 - C23,Scheduled,2020-07-24 15:10:00,2020-07-24 15:01:00
+United Airlines,8307,Toronto,Term 2,Scheduled,2020-07-24 15:10:00,2020-07-24 14:27:00
+SWISS,3044,London,Term 5 - M16,In Air,2020-07-24 15:15:00,2020-07-24 14:10:00
+Austrian Airlines,7849,London,Term 5 - M16,In Air,2020-07-24 15:15:00,2020-07-24 14:10:00
+Lufthansa,9348,London,Term 5 - M16,In Air,2020-07-24 15:15:00,2020-07-24 14:10:00
+Qatar Airways,2700,Philadelphia| PA,Term T3 - H9,Scheduled,2020-07-24 15:17:00,2020-07-24 15:05:00
+Gulf Air,4187,Los Angeles| CA,Term T3 - K10,In Air,2020-07-24 15:17:00,2020-07-24 14:54:00
+Alaska Airlines,4530,Philadelphia| PA,Term T3 - H9,Scheduled,2020-07-24 15:17:00,2020-07-24 15:05:00
+Malaysia Airlines,9346,Los Angeles| CA,Term T3 - K10,In Air,2020-07-24 15:17:00,2020-07-24 14:54:00
+American Airlines,2381,Jackson| WY,Term T3 - H12,Scheduled,2020-07-24 15:19:00,2020-07-24 15:31:00
+Alaska Airlines,1208,San Francisco| CA,Term 3 - G4,In Air,2020-07-24 15:30:00,2020-07-24 15:09:00
+Delta Air Lines,751,Seattle| WA,Term 2 - E11,In Air,2020-07-24 15:45:00,2020-07-24 15:30:00
+Qatar Airways,2456,Dallas-Fort Worth| TX,Term T3 - K16,Scheduled,2020-07-24 15:45:00,2020-07-24 15:40:00
+Gulf Air,6737,Dallas-Fort Worth| TX,Term T3 - K16,Scheduled,2020-07-24 15:45:00,2020-07-24 15:40:00
+Qatar Airways,2866,Washington| DC,Term T3 - K9,Scheduled,2020-07-24 15:50:00,2020-07-24 15:38:00
+American Airlines,1883,Charlotte| NC,Term T3 - K19,Scheduled,2020-07-24 15:55:00,2020-07-24 15:55:00
+British Airways,5459,Charlotte| NC,Term T3 - K19,Scheduled,2020-07-24 15:55:00,2020-07-24 15:55:00
+United Airlines,5165,Salina| KS,Term 2 - E6,Scheduled,2020-07-24 16:05:00,2020-07-24 16:05:00
+Qatar Airways,2898,Fort Myers| FL,Term T3 - H16,Scheduled,2020-07-24 16:06:00,2020-07-24 16:03:00
+Qatar Airways,2858,New York| NY,Term T3 - K8,Scheduled,2020-07-24 16:10:00,2020-07-24 16:06:00
+British Airways,6579,New York| NY,Term T3 - K8,Scheduled,2020-07-24 16:10:00,2020-07-24 16:06:00
+American Airlines,8351,Quincy| IL,Term 3,Scheduled,2020-07-24 16:11:00,
+Air New Zealand,2302,Des Moines| IA,Term 1 - B22,Scheduled,2020-07-24 16:25:00,2020-07-24 16:25:00
+Delta Air Lines,3750,Minneapolis| MN,Term 2 - E17,Scheduled,2020-07-24 16:25:00,2020-07-24 16:25:00
+United Airlines,5397,Des Moines| IA,Term 1 - B22,Scheduled,2020-07-24 16:25:00,2020-07-24 16:25:00
+WestJet Airlines,6584,Minneapolis| MN,Term 2 - E17,Scheduled,2020-07-24 16:25:00,2020-07-24 16:25:00
+Lufthansa,8783,Des Moines| IA,Term 1 - B22,Scheduled,2020-07-24 16:25:00,2020-07-24 16:25:00
+Air New Zealand,2630,Milwaukee| WI,Term 2 - F18,Scheduled,2020-07-24 16:27:00,2020-07-24 16:27:00
+United Airlines,4841,Milwaukee| WI,Term 2 - F18,Scheduled,2020-07-24 16:27:00,2020-07-24 16:27:00
+United Airlines,472,Jackson| WY,Term 1 - C24,Scheduled,2020-07-24 16:28:00,2020-07-24 16:16:00
+United Airlines,2193,Newark| NJ,Term 1 - B8,Scheduled,2020-07-24 16:30:00,2020-07-24 16:08:00
+Air Canada,5134,Newark| NJ,Term 1 - B8,Scheduled,2020-07-24 16:30:00,2020-07-24 16:08:00
+Air China,7425,Newark| NJ,Term 1 - B8,Scheduled,2020-07-24 16:30:00,2020-07-24 16:08:00
+Air New Zealand,2446,Washington| DC,Term 1 - C8,Scheduled,2020-07-24 16:31:00,2020-07-24 16:31:00
+Air Canada,4420,Washington| DC,Term 1 - C8,Scheduled,2020-07-24 16:31:00,2020-07-24 16:31:00
+All Nippon Airways,7733,Washington| DC,Term 1 - C8,Scheduled,2020-07-24 16:31:00,2020-07-24 16:31:00
+United Airlines,4527,St Louis| MO,Term 2 - F25,Scheduled,2020-07-24 16:33:00,2020-07-24 16:33:00
+Aer Lingus,6393,St Louis| MO,Term 2 - F25,Scheduled,2020-07-24 16:33:00,2020-07-24 16:33:00
+Lufthansa,8793,St Louis| MO,Term 2 - F25,Scheduled,2020-07-24 16:33:00,2020-07-24 16:33:00
+Qatar Airways,7692,Jackson| WY,Term T3 - H11A,Scheduled,2020-07-24 16:34:00,2020-07-24 16:34:00
+Air New Zealand,2670,Minneapolis| MN,Term 1 - B9,Scheduled,2020-07-24 16:35:00,2020-07-24 16:35:00
+All Nippon Airways,7399,Minneapolis| MN,Term 1 - B9,Scheduled,2020-07-24 16:35:00,2020-07-24 16:35:00
+Turkish Airlines,8618,Denver| CO,Term 1 - B7,Scheduled,2020-07-24 16:35:00,2020-07-24 16:30:00
+Aer Lingus,6899,Springfield| MO,Term 2 - E10,Scheduled,2020-07-24 16:37:00,2020-07-24 16:37:00
+United Airlines,3406,Austin| TX,Term 1 - C7,Scheduled,2020-07-24 16:38:00,2020-07-24 16:38:00
+All Nippon Airways,7477,Austin| TX,Term 1 - C7,Scheduled,2020-07-24 16:38:00,2020-07-24 16:38:00
+Scandinavian Airlines,8846,Austin| TX,Term 1 - C7,Scheduled,2020-07-24 16:38:00,2020-07-24 16:38:00
+Lufthansa,7877,Moline| IL,Term 1 - C4,Scheduled,2020-07-24 16:39:00,2020-07-24 16:39:00
+Korean Air,3158,Atlanta| GA,Term 2 - E14,Scheduled,2020-07-24 16:40:00,2020-07-24 16:30:00
+KLM Royal Dutch Airlines,5940,Atlanta| GA,Term 2 - E14,Scheduled,2020-07-24 16:40:00,2020-07-24 16:30:00
+All Nippon Airways,7403,Atlanta| GA,Term 1 - B2,Scheduled,2020-07-24 16:40:00,2020-07-24 16:40:00
+Air France,8936,Atlanta| GA,Term 2 - E14,Scheduled,2020-07-24 16:40:00,2020-07-24 16:30:00
+Air New Zealand,9668,Los Angeles| CA,Term 1 - C9,Scheduled,2020-07-24 16:40:00,2020-07-24 16:34:00
+United Airlines,5416,Sioux Falls| SD,Term 2 - E8,Scheduled,2020-07-24 16:41:00,2020-07-24 16:41:00
+Lufthansa,9141,Sioux Falls| SD,Term 2 - E8,Scheduled,2020-07-24 16:41:00,2020-07-24 16:41:00
+Scandinavian Airlines,3992,Washington| DC,Term 1 - C30,Scheduled,2020-07-24 16:42:00,2020-07-24 16:42:00
+All Nippon Airways,7559,Washington| DC,Term 1 - C30,Scheduled,2020-07-24 16:42:00,2020-07-24 16:42:00
+Air Canada,3084,Nashville| TN,Term 1 - B20,Scheduled,2020-07-24 16:43:00,2020-07-24 16:43:00
+All Nippon Airways,7411,Nashville| TN,Term 1 - B20,Scheduled,2020-07-24 16:43:00,2020-07-24 16:43:00
+SWISS,3327,Dallas-Fort Worth| TX,Term 1 - B11,Scheduled,2020-07-24 16:45:00,2020-07-24 16:27:00
+Scandinavian Airlines,3982,Dallas-Fort Worth| TX,Term 1 - B11,Scheduled,2020-07-24 16:45:00,2020-07-24 16:27:00
+LOT Polish Airlines,4354,Dallas-Fort Worth| TX,Term 1 - B11,Scheduled,2020-07-24 16:45:00,2020-07-24 16:27:00
+Air New Zealand,2554,Little Rock| AR,Term 2 - F17,Scheduled,2020-07-24 16:46:00,2020-07-24 16:46:00
+Aer Lingus,6853,Little Rock| AR,Term 2 - F17,Scheduled,2020-07-24 16:46:00,2020-07-24 16:46:00
+British Airways,1947,Traverse City| MI,Term T3 - G10,Scheduled,2020-07-24 16:47:00,2020-07-24 16:47:00
+Alaska Airlines,4232,Traverse City| MI,Term T3 - G10,Scheduled,2020-07-24 16:47:00,2020-07-24 16:47:00
+Air Canada,4970,San Antonio| TX,Term 2 - E12,Scheduled,2020-07-24 16:48:00,2020-07-24 16:48:00
+All Nippon Airways,6517,San Antonio| TX,Term 2 - E12,Scheduled,2020-07-24 16:48:00,2020-07-24 16:48:00
+Lufthansa,7485,San Antonio| TX,Term 2 - E12,Scheduled,2020-07-24 16:48:00,2020-07-24 16:48:00
+Aer Lingus,6545,Grand Rapids| MI,Term 2 - F19,Scheduled,2020-07-24 16:49:00,2020-07-24 16:49:00
+Lufthansa,9101,Grand Rapids| MI,Term 2 - F19,Scheduled,2020-07-24 16:49:00,2020-07-24 16:49:00
+United Airlines,2494,Seattle| WA,Term 1 - C29,Scheduled,2020-07-24 16:51:00,2020-07-24 16:27:00
+SWISS,3255,Seattle| WA,Term 1 - C29,Scheduled,2020-07-24 16:51:00,2020-07-24 16:27:00
+Alaska Airlines,4076,Cincinnati| OH,Term T3 - L21,Scheduled,2020-07-24 16:51:00,2020-07-24 16:51:00
+British Airways,5267,Cincinnati| OH,Term T3 - L21,Scheduled,2020-07-24 16:51:00,2020-07-24 16:51:00
+Lufthansa,7537,Seattle| WA,Term 1 - C29,Scheduled,2020-07-24 16:51:00,2020-07-24 16:27:00
+Scandinavian Airlines,8750,Seattle| WA,Term 1 - C29,Scheduled,2020-07-24 16:51:00,2020-07-24 16:27:00
+Air Canada,3389,Omaha| NE,Term 1 - B19,Scheduled,2020-07-24 16:52:00,2020-07-24 16:52:00
+Lufthansa,7869,Omaha| NE,Term 1 - B19,Scheduled,2020-07-24 16:52:00,2020-07-24 16:52:00
+LOT Polish Airlines,4408,San Francisco| CA,Term 1 - C18,Scheduled,2020-07-24 16:53:00,2020-07-24 16:25:00
+Aer Lingus,6226,San Francisco| CA,Term 1 - C18,Scheduled,2020-07-24 16:53:00,2020-07-24 16:25:00
+Air New Zealand,2788,Rapid City| SD,Term 1 - C31,Scheduled,2020-07-24 16:54:00,2020-07-24 16:54:00
+Spirit Airlines,730,Los Angeles| CA,Term 3 - L11,Scheduled,2020-07-24 16:56:00,2020-07-24 16:52:00
+Aer Lingus,6656,Oklahoma City| OK,Term 1 - C27,Scheduled,2020-07-24 16:56:00,2020-07-24 16:56:00
+Air New Zealand,2684,New Orleans| LA,Term 1 - C22,Scheduled,2020-07-24 16:57:00,2020-07-24 16:57:00
+United Airlines,3542,New Orleans| LA,Term 1 - C22,Scheduled,2020-07-24 16:57:00,2020-07-24 16:57:00
+Scandinavian Airlines,3923,New Orleans| LA,Term 1 - C22,Scheduled,2020-07-24 16:57:00,2020-07-24 16:57:00
+Lufthansa,7677,New Orleans| LA,Term 1 - C22,Scheduled,2020-07-24 16:57:00,2020-07-24 16:57:00
+Air New Zealand,2652,Madison| WI,Term 1 - C1,Scheduled,2020-07-24 16:58:00,2020-07-24 16:58:00
+Air New Zealand,2578,Kansas City| MO,Term 1 - B3,Scheduled,2020-07-24 17:00:00,2020-07-24 17:00:00
+Alaska Airlines,4492,Sioux Falls| SD,Term T3 - G20,Scheduled,2020-07-24 17:00:00,2020-07-24 17:00:00
+All Nippon Airways,7753,Kansas City| MO,Term 1 - B3,Scheduled,2020-07-24 17:00:00,2020-07-24 17:00:00
+Qatar Airways,7824,Sioux Falls| SD,Term T3 - G20,Scheduled,2020-07-24 17:00:00,2020-07-24 17:00:00
+Scandinavian Airlines,9814,Kansas City| MO,Term 1 - B3,Scheduled,2020-07-24 17:00:00,2020-07-24 17:00:00
+Scandinavian Airlines,3966,Houston| TX,Term 1 - C19,Scheduled,2020-07-24 17:01:00,2020-07-24 16:49:00
+Aer Lingus,6090,Houston| TX,Term 1 - C19,Scheduled,2020-07-24 17:01:00,2020-07-24 16:49:00
+All Nippon Airways,7429,Houston| TX,Term 1 - C19,Scheduled,2020-07-24 17:01:00,2020-07-24 16:49:00
+United Airlines,2475,San Diego| CA,Term 1 - B12,Scheduled,2020-07-24 17:02:00,2020-07-24 16:40:00
+LOT Polish Airlines,4400,San Diego| CA,Term 1 - B12,Scheduled,2020-07-24 17:02:00,2020-07-24 16:40:00
+Aer Lingus,6210,San Diego| CA,Term 1 - B12,Scheduled,2020-07-24 17:02:00,2020-07-24 16:40:00
+Lufthansa,9149,San Diego| CA,Term 1 - B12,Scheduled,2020-07-24 17:02:00,2020-07-24 16:40:00
+SWISS,3269,Portland| OR,Term 1 - B14,Scheduled,2020-07-24 17:04:00,2020-07-24 16:48:00
+Aer Lingus,6194,Portland| OR,Term 1 - B14,Scheduled,2020-07-24 17:04:00,2020-07-24 16:48:00
+Lufthansa,9191,Portland| OR,Term 1 - B14,Scheduled,2020-07-24 17:04:00,2020-07-24 16:48:00
+Air New Zealand,2484,Indianapolis| IN,Term 1 - C3,Scheduled,2020-07-24 17:07:00,2020-07-24 17:07:00
+Air Canada,5586,Indianapolis| IN,Term 1 - C3,Scheduled,2020-07-24 17:07:00,2020-07-24 17:07:00
+Air New Zealand,2928,Tulsa| OK,Term 2 - F6,Scheduled,2020-07-24 17:08:00,2020-07-24 17:08:00
+United Airlines,4458,Tulsa| OK,Term 2 - F6,Scheduled,2020-07-24 17:08:00,2020-07-24 17:08:00
+Lufthansa,8583,Tulsa| OK,Term 2 - F6,Scheduled,2020-07-24 17:08:00,2020-07-24 17:08:00
+American Airlines,1417,Cancun,Term T3 - IAB,Scheduled,2020-07-24 17:10:00,2020-07-24 17:20:00
+Air Choice One,2634,Burlington| IA,Term 3,Scheduled,2020-07-24 17:10:00,
+American Airlines,3486,Rochester| MN,Term T3 - H2,Scheduled,2020-07-24 17:17:00,2020-07-24 17:17:00
+Qatar Airways,2845,Detroit| MI,Term T3 - K3,Scheduled,2020-07-24 17:18:00,2020-07-24 17:18:00
+Alaska Airlines,4653,Detroit| MI,Term T3 - K3,Scheduled,2020-07-24 17:18:00,2020-07-24 17:18:00
+British Airways,5188,Kansas City| MO,Term T3 - L10B,Scheduled,2020-07-24 17:19:00,2020-07-24 17:19:00
+Qatar Airways,7613,San Antonio| TX,Term T3 - L6B,Scheduled,2020-07-24 17:21:00,2020-07-24 17:21:00
+JetBlue Airways,2711,Boston| MA,Term 3 - G2,Scheduled,2020-07-24 17:22:00,2020-07-24 17:18:00
+Qatar Airways,9148,Bloomington/Normal| IL,Term T3 - K2,Scheduled,2020-07-24 17:23:00,2020-07-24 17:23:00
+Alaska Airlines,4168,Madison| WI,Term T3 - G5,Scheduled,2020-07-24 17:25:00,2020-07-24 17:25:00
+Qatar Airways,7568,Madison| WI,Term T3 - G5,Scheduled,2020-07-24 17:25:00,2020-07-24 17:25:00
+British Airways,4816,Salt Lake City| UT,Term T3 - H6,Scheduled,2020-07-24 17:26:00,2020-07-24 17:26:00
+American Airlines,3792,Omaha| NE,Term T3 - L2C,Scheduled,2020-07-24 17:28:00,2020-07-24 17:28:00
+British Airways,5512,Omaha| NE,Term T3 - L2C,Scheduled,2020-07-24 17:28:00,2020-07-24 17:28:00
+British Airways,6865,Orange County| CA,Term T3 - K4,Scheduled,2020-07-24 17:34:00,2020-07-24 17:33:00
+British Airways,4992,Nashville| TN,Term T3 - G17,Arrived,2020-07-24 09:15:00,2020-07-24 11:51:00
+JetBlue Airways,1105,New York| NY, ,No Recent Info - Call Airline,2020-07-24 11:30:00,
+Spirit Airlines,847,New York| NY,Term 3 - L11,Arrived,2020-07-24 11:43:00,2020-07-24 10:54:00
+American Airlines,1033,Washington| DC,Term T3 - H6,Arrived,2020-07-24 12:06:00,2020-07-24 11:37:00
+American Airlines,2408,Charlotte| NC,Term T3 - K5,In Air,2020-07-24 12:13:00,2020-07-24 12:34:00
+British Airways,5456,Charlotte| NC,Term T3 - K5,In Air,2020-07-24 12:13:00,2020-07-24 12:34:00
+American Airlines,4246,Kansas City| MO,Term T3 - L2A,Arrived,2020-07-24 12:15:00,2020-07-24 11:59:00
+Cape Air,1153,Quincy| IL,Term 3,Arrived,2020-07-24 12:19:00,2020-07-24 12:10:00
+Qantas Airways,3191,San Francisco| CA,Term T3 - H18,Arrived,2020-07-24 12:19:00,2020-07-24 12:13:00
+Alaska Airlines,4059,Buffalo| NY,Term T3 - L10B,Arrived,2020-07-24 12:19:00,2020-07-24 12:13:00
+British Airways,4325,Cleveland| OH,Term T3 - G19A,Arrived,2020-07-24 12:19:00,2020-07-24 11:45:00
+Gulf Air,6617,Cleveland| OH,Term T3 - G19A,Arrived,2020-07-24 12:19:00,2020-07-24 11:45:00
+American Airlines,8350,Quincy| IL,Term 3,Arrived,2020-07-24 12:19:00,2020-07-24 12:10:00
+American Airlines,2431,Los Angeles| CA,Term T3 - K12,Arrived,2020-07-24 12:21:00,2020-07-24 12:15:00
+Qatar Airways,2850,Columbus| OH,Term T3 - L20,Arrived,2020-07-24 12:22:00,2020-07-24 12:11:00
+British Airways,4594,Columbus| OH,Term T3 - L20,Arrived,2020-07-24 12:22:00,2020-07-24 12:11:00
+American Airlines,3616,Lexington| KY,Term T3 - G8,Arrived,2020-07-24 12:23:00,2020-07-24 11:57:00
+British Airways,4925,Lexington| KY,Term T3 - G8,Arrived,2020-07-24 12:23:00,2020-07-24 11:57:00
+Qatar Airways,2490,Detroit| MI,Term T3 - G1B,Arrived,2020-07-24 12:24:00,2020-07-24 12:10:00
+Qantas Airways,3306,Pittsburgh| PA,Term T3 - K1,Arrived,2020-07-24 12:24:00,2020-07-24 11:52:00
+American Airlines,4070,Pittsburgh| PA,Term T3 - K1,Arrived,2020-07-24 12:24:00,2020-07-24 11:52:00
+Alaska Airlines,4465,Pittsburgh| PA,Term T3 - K1,Arrived,2020-07-24 12:24:00,2020-07-24 11:52:00
+British Airways,5617,Detroit| MI,Term T3 - G1B,Arrived,2020-07-24 12:24:00,2020-07-24 12:10:00
+American Airlines,2796,Miami| FL,Term T3 - K19,Arrived,2020-07-24 12:25:00,2020-07-24 12:22:00
+Alaska Airlines,4557,Miami| FL,Term T3 - K19,Arrived,2020-07-24 12:25:00,2020-07-24 12:22:00
+British Airways,2454,Toronto,Term T3 - L4,Arrived,2020-07-24 12:26:00,2020-07-24 12:18:00
+American Airlines,3736,Toronto,Term T3 - L4,Arrived,2020-07-24 12:26:00,2020-07-24 12:18:00
+American Airlines,1833,Nashville| TN,Term T3 - H11B,Arrived,2020-07-24 12:27:00,2020-07-24 12:22:00
+Spirit Airlines,3029,Myrtle Beach| SC,Term 3 - L7,Arrived,2020-07-24 12:27:00,2020-07-24 12:04:00
+American Airlines,3978,Evansville| IN,Term T3 - G19,Arrived,2020-07-24 12:28:00,2020-07-24 12:14:00
+British Airways,4913,Evansville| IN,Term T3 - G19,Arrived,2020-07-24 12:28:00,2020-07-24 12:14:00
+Qatar Airways,2436,Cincinnati| OH,Term T3 - L24,Arrived,2020-07-24 12:29:00,2020-07-24 12:23:00
+American Airlines,3926,Rochester| MN,Term T3 - G12,Arrived,2020-07-24 12:29:00,2020-07-24 12:07:00
+Alaska Airlines,4049,Cincinnati| OH,Term T3 - L24,Arrived,2020-07-24 12:29:00,2020-07-24 12:23:00
+Qantas Airways,4870,Cincinnati| OH,Term T3 - L24,Arrived,2020-07-24 12:29:00,2020-07-24 12:23:00
+British Airways,6951,Cedar Rapids| IA,Term T3 - G14A,Landed,2020-07-24 12:29:00,2020-07-24 12:13:00
+American Airlines,4103,Champaign/Urbana| IL,Term T3 - G10,Arrived,2020-07-24 12:30:00,2020-07-24 12:20:00
+British Airways,5628,Champaign/Urbana| IL,Term T3 - G10,Arrived,2020-07-24 12:30:00,2020-07-24 12:20:00
+American Airlines,1458,San Diego| CA,Term T3 - K13,Arrived,2020-07-24 12:31:00,2020-07-24 12:04:00
+American Airlines,1755,Philadelphia| PA,Term T3 - H12,Arrived,2020-07-24 12:32:00,2020-07-24 12:05:00
+American Airlines,3474,State College| PA,Term T3 - L1B,Arrived,2020-07-24 12:33:00,2020-07-24 12:24:00
+British Airways,5126,Green Bay| WI,Term T3 - G13,Arrived,2020-07-24 12:34:00,2020-07-24 12:16:00
+United Airlines,5225,Aspen| CO,Term 1 - B23,Landed,2020-07-24 12:35:00,2020-07-24 12:21:00
+Qatar Airways,2455,Newark| NJ,Term T3 - L6B,Arrived,2020-07-24 12:36:00,2020-07-24 12:23:00
+United Airlines,3759,Duluth| MN,Term 2 - F26,Landed,2020-07-24 12:36:00,2020-07-24 12:21:00
+British Airways,4582,Newark| NJ,Term T3 - L6B,Arrived,2020-07-24 12:36:00,2020-07-24 12:23:00
+Air New Zealand,2376,Fort Lauderdale| FL,Term 1 - C19,Arrived,2020-07-24 12:37:00,2020-07-24 12:03:00
+American Airlines,2987,Rochester| NY,Term T3 - G16,Arrived,2020-07-24 12:37:00,2020-07-24 12:25:00
+Alaska Airlines,4094,Rochester| NY,Term T3 - G16,Arrived,2020-07-24 12:37:00,2020-07-24 12:25:00
+British Airways,6711,Mosinee| WI,Term T3 - H1A,Landed,2020-07-24 12:37:00,2020-07-24 12:14:00
+United Airlines,3783,Springfield| MO,Term 2 - F22,Arrived,2020-07-24 12:38:00,2020-07-24 12:13:00
+American Airlines,3813,Toledo| OH,Term T3 - G20,Arrived,2020-07-24 12:39:00,2020-07-24 12:19:00
+British Airways,4750,Madison| WI,Term T3 - G3,Arrived,2020-07-24 12:39:00,2020-07-24 12:23:00
+American Airlines,4051,Syracuse| NY,Term T3 - L23,Landed,2020-07-24 12:40:00,2020-07-24 12:17:00
+Alaska Airlines,4166,Syracuse| NY,Term T3 - L23,Landed,2020-07-24 12:40:00,2020-07-24 12:17:00
+British Airways,6531,Grand Rapids| MI,Term T3 - L22,Landed,2020-07-24 12:40:00,2020-07-24 12:18:00
+United Airlines,3575,Traverse City| MI,Term 1 - C7,Landed,2020-07-24 12:42:00,2020-07-24 12:17:00
+Air Canada,3993,Memphis| TN,Term 2 - F19,Landed,2020-07-24 12:43:00,2020-07-24 12:27:00
+Aer Lingus,6628,Memphis| TN,Term 2 - F19,Landed,2020-07-24 12:43:00,2020-07-24 12:27:00
+Lufthansa,8819,Memphis| TN,Term 2 - F19,Landed,2020-07-24 12:43:00,2020-07-24 12:27:00
+United Airlines,3608,Raleigh/Durham| NC,Term 1 - C22,Landed,2020-07-24 12:44:00,2020-07-24 12:21:00
+Lufthansa,8853,Raleigh/Durham| NC,Term 1 - C22,Landed,2020-07-24 12:44:00,2020-07-24 12:21:00
+AeroMexico,652,Guadalajara,Term 5,In Air,2020-07-24 12:45:00,2020-07-24 12:40:00
+Alaska Airlines,4078,Indianapolis| IN,Term T3 - L21,Landed,2020-07-24 12:45:00,2020-07-24 12:24:00
+Qantas Airways,4900,Indianapolis| IN,Term T3 - L21,Landed,2020-07-24 12:45:00,2020-07-24 12:24:00
+Delta Air Lines,8043,Guadalajara,Term 5,In Air,2020-07-24 12:45:00,2020-07-24 12:40:00
+Air New Zealand,2756,Pittsburgh| PA,Term 1 - C5,In Air,2020-07-24 12:46:00,2020-07-24 12:34:00
+United Airlines,4428,Fayetteville/Springdale/| AR,Term 2 - F17,Arrived,2020-07-24 12:46:00,2020-07-24 12:21:00
+Aer Lingus,6580,Wichita| KS,Term 2 - F23,In Air,2020-07-24 12:46:00,2020-07-24 12:31:00
+All Nippon Airways,7619,Wichita| KS,Term 2 - F23,In Air,2020-07-24 12:46:00,2020-07-24 12:31:00
+Lufthansa,9215,Wichita| KS,Term 2 - F23,In Air,2020-07-24 12:46:00,2020-07-24 12:31:00
+Air New Zealand,2556,Little Rock| AR,Term 2 - F27,Arrived,2020-07-24 12:50:00,2020-07-24 12:24:00
+United Airlines,4400,Little Rock| AR,Term 2 - F27,Arrived,2020-07-24 12:50:00,2020-07-24 12:24:00
+Air Canada,4923,St Louis| MO,Term 2 - F15,In Air,2020-07-24 12:50:00,2020-07-24 12:29:00
+Turkish Airlines,6555,Shannon, ,No Recent Info - Call Airline,2020-07-24 12:50:00,
+All Nippon Airways,7467,St Louis| MO,Term 2 - F15,In Air,2020-07-24 12:50:00,2020-07-24 12:29:00
+Austrian Airlines,7736,St Louis| MO,Term 2 - F15,In Air,2020-07-24 12:50:00,2020-07-24 12:29:00
+United Airlines,5629,Columbia| MO,Term 1 - C8,In Air,2020-07-24 12:51:00,2020-07-24 12:36:00
+Lufthansa,9121,Sioux Falls| SD,Term 2 - F6,Arrived,2020-07-24 12:51:00,2020-07-24 12:22:00
+Air Canada,3191,Norfolk| VA,Term 1 - C30,Landed,2020-07-24 12:52:00,2020-07-24 12:27:00
+All Nippon Airways,7521,Norfolk| VA,Term 1 - C30,Landed,2020-07-24 12:52:00,2020-07-24 12:27:00
+Air New Zealand,2170,Cleveland| OH,Term 1 - C29,In Air,2020-07-24 12:53:00,2020-07-24 12:34:00
+Air Canada,3081,Cincinnati| OH,Term 2 - F25,Landed,2020-07-24 12:53:00,2020-07-24 12:26:00
+LOT Polish Airlines,4334,Cleveland| OH,Term 1 - C29,In Air,2020-07-24 12:53:00,2020-07-24 12:34:00
+Aer Lingus,6008,Cleveland| OH,Term 1 - C29,In Air,2020-07-24 12:53:00,2020-07-24 12:34:00
+All Nippon Airways,7599,Cleveland| OH,Term 1 - C29,In Air,2020-07-24 12:53:00,2020-07-24 12:34:00
+Lufthansa,8619,Cincinnati| OH,Term 2 - F25,Landed,2020-07-24 12:53:00,2020-07-24 12:26:00
+Scandinavian Airlines,9782,Cleveland| OH,Term 1 - C29,In Air,2020-07-24 12:53:00,2020-07-24 12:34:00
+Air Canada,3006,Philadelphia| PA,Term 1 - B6,In Air,2020-07-24 12:54:00,2020-07-24 12:36:00
+United Airlines,3780,South Bend| IN,Term 2 - F18,In Air,2020-07-24 12:54:00,2020-07-24 12:28:00
+All Nippon Airways,7595,Philadelphia| PA,Term 1 - B6,In Air,2020-07-24 12:54:00,2020-07-24 12:36:00
+United Airlines,1161,Houston| TX,Term 1 - C20,In Air,2020-07-24 12:55:00,2020-07-24 12:33:00
+LOT Polish Airlines,4364,Houston| TX,Term 1 - C20,In Air,2020-07-24 12:55:00,2020-07-24 12:33:00
+Scandinavian Airlines,6742,Houston| TX,Term 1 - C20,In Air,2020-07-24 12:55:00,2020-07-24 12:33:00
+Lufthansa,7493,Houston| TX,Term 1 - C20,In Air,2020-07-24 12:55:00,2020-07-24 12:33:00
+Air New Zealand,2666,Minneapolis| MN,Term 1 - C1,Landed,2020-07-24 12:56:00,2020-07-24 12:19:00
+Air Canada,3675,Minneapolis| MN,Term 1 - C1,Landed,2020-07-24 12:56:00,2020-07-24 12:19:00
+All Nippon Airways,7397,Minneapolis| MN,Term 1 - C1,Landed,2020-07-24 12:56:00,2020-07-24 12:19:00
+American Airlines,9901,Rochester| NY,Term T3 - G17,Landed,2020-07-24 12:57:00,2020-07-24 12:20:00
+Air New Zealand,2124,Baltimore| MD,Term 1 - B19,In Air,2020-07-24 12:58:00,2020-07-24 12:35:00
+Air Canada,5488,Sacramento| CA,Term 1 - B9,In Air,2020-07-24 12:58:00,2020-07-24 12:29:00
+All Nippon Airways,6507,Baltimore| MD,Term 1 - B19,In Air,2020-07-24 12:58:00,2020-07-24 12:35:00
+Lufthansa,9347,Sacramento| CA,Term 1 - B9,In Air,2020-07-24 12:58:00,2020-07-24 12:29:00
+Air New Zealand,2526,New York| NY,Term 1 - B11,Landed,2020-07-24 12:59:00,2020-07-24 12:23:00
+United Airlines,3451,Dallas-Fort Worth| TX,Term 1 - C28,Landed,2020-07-24 12:59:00,2020-07-24 12:22:00
+Lufthansa,7469,Dallas-Fort Worth| TX,Term 1 - C28,Landed,2020-07-24 12:59:00,2020-07-24 12:22:00
+Austrian Airlines,7708,Dallas-Fort Worth| TX,Term 1 - C28,Landed,2020-07-24 12:59:00,2020-07-24 12:22:00
+Scandinavian Airlines,9798,Dallas-Fort Worth| TX,Term 1 - C28,Landed,2020-07-24 12:59:00,2020-07-24 12:22:00
+Thai Airways,7708,Frankfurt,Term 5,Arrived,2020-07-24 13:00:00,2020-07-24 12:24:00
+United Airlines,8836,Frankfurt,Term 5,Arrived,2020-07-24 13:00:00,2020-07-24 12:24:00
+Air Canada,9457,Frankfurt,Term 5,Arrived,2020-07-24 13:00:00,2020-07-24 12:24:00
+United Airlines,3404,Atlanta| GA,Term 1 - C3,In Air,2020-07-24 13:01:00,2020-07-24 12:52:00
+Austrian Airlines,7724,Atlanta| GA,Term 1 - C3,In Air,2020-07-24 13:01:00,2020-07-24 12:52:00
+United Airlines,449,Las Vegas| NV,Term 1 - C25,In Air,2020-07-24 13:02:00,2020-07-24 12:42:00
+Air New Zealand,2572,Kansas City| MO,Term 1 - C2,In Air,2020-07-24 13:02:00,2020-07-24 12:38:00
+LOT Polish Airlines,4368,Las Vegas| NV,Term 1 - C25,In Air,2020-07-24 13:02:00,2020-07-24 12:42:00
+Air Canada,5412,Kansas City| MO,Term 1 - C2,In Air,2020-07-24 13:02:00,2020-07-24 12:38:00
+All Nippon Airways,6513,Kansas City| MO,Term 1 - C2,In Air,2020-07-24 13:02:00,2020-07-24 12:38:00
+Austrian Airlines,7744,Las Vegas| NV,Term 1 - C25,In Air,2020-07-24 13:02:00,2020-07-24 12:42:00
+Lufthansa,9195,Kansas City| MO,Term 1 - C2,In Air,2020-07-24 13:02:00,2020-07-24 12:38:00
+Scandinavian Airlines,9816,Kansas City| MO,Term 1 - C2,In Air,2020-07-24 13:02:00,2020-07-24 12:38:00
+United Airlines,525,Orlando| FL,Term 1 - B7,In Air,2020-07-24 13:03:00,2020-07-24 12:30:00
+Air New Zealand,2586,Orlando| FL,Term 1 - B7,In Air,2020-07-24 13:03:00,2020-07-24 12:30:00
+LOT Polish Airlines,4394,Phoenix| AZ,Term 1 - B10,Landed,2020-07-24 13:03:00,2020-07-24 12:27:00
+Air Canada,5262,Phoenix| AZ,Term 1 - B10,Landed,2020-07-24 13:03:00,2020-07-24 12:27:00
+Austrian Airlines,7726,Orlando| FL,Term 1 - B7,In Air,2020-07-24 13:03:00,2020-07-24 12:30:00
+Lufthansa,8751,Birmingham| AL,Term 2 - F11,In Air,2020-07-24 13:03:00,2020-07-24 12:34:00
+Scandinavian Airlines,9834,Phoenix| AZ,Term 1 - B10,Landed,2020-07-24 13:03:00,2020-07-24 12:27:00
+United Airlines,5681,Austin| TX,Term 1 - B4,In Air,2020-07-24 13:04:00,2020-07-24 12:54:00
+Scandinavian Airlines,6825,Austin| TX,Term 1 - B4,In Air,2020-07-24 13:04:00,2020-07-24 12:54:00
+Air New Zealand,2404,Grand Rapids| MI,Term 2 - F21,In Air,2020-07-24 13:05:00,2020-07-24 12:33:00
+Aer Lingus,6544,Grand Rapids| MI,Term 2 - F21,In Air,2020-07-24 13:05:00,2020-07-24 12:33:00
+Air New Zealand,2150,Charleston| SC,Term 1 - C6,In Air,2020-07-24 13:06:00,2020-07-24 13:08:00
+Air Canada,4570,Charleston| SC,Term 1 - C6,In Air,2020-07-24 13:06:00,2020-07-24 13:08:00
+Lufthansa,8567,Charleston| SC,Term 1 - C6,In Air,2020-07-24 13:06:00,2020-07-24 13:08:00
+Air Canada,4305,Tulsa| OK,Term 1 - B2,In Air,2020-07-24 13:07:00,2020-07-24 12:46:00
+Aer Lingus,6703,Tulsa| OK,Term 1 - B2,In Air,2020-07-24 13:07:00,2020-07-24 12:46:00
+Lufthansa,7959,Tulsa| OK,Term 1 - B2,In Air,2020-07-24 13:07:00,2020-07-24 12:46:00
+United Airlines,4406,Madison| WI,Term 2 - E4,In Air,2020-07-24 13:08:00,2020-07-24 12:35:00
+Lufthansa,8995,Madison| WI,Term 2 - E4,In Air,2020-07-24 13:08:00,2020-07-24 12:35:00
+Air Canada,4576,Salt Lake City| UT,Term 1 - B1,In Air,2020-07-24 13:09:00,2020-07-24 12:48:00
+Aer Lingus,6365,Salt Lake City| UT,Term 1 - B1,In Air,2020-07-24 13:09:00,2020-07-24 12:48:00
+Lufthansa,9023,Salt Lake City| UT,Term 1 - B1,In Air,2020-07-24 13:09:00,2020-07-24 12:48:00
+United Airlines,3735,Evansville| IN,Term 2 - F10,In Air,2020-07-24 13:10:00,2020-07-24 12:39:00
+LOT Polish Airlines,4402,San Diego| CA,Term 1 - B8,Landed,2020-07-24 13:10:00,2020-07-24 12:24:00
+Air Canada,5772,Denver| CO,Term 1 - C16,In Air,2020-07-24 13:10:00,2020-07-24 12:53:00
+Aer Lingus,6209,San Diego| CA,Term 1 - B8,Landed,2020-07-24 13:10:00,2020-07-24 12:24:00
+All Nippon Airways,7537,Evansville| IN,Term 2 - F10,In Air,2020-07-24 13:10:00,2020-07-24 12:39:00
+Austrian Airlines,7732,Denver| CO,Term 1 - C16,In Air,2020-07-24 13:10:00,2020-07-24 12:53:00
+Scandinavian Airlines,8760,Denver| CO,Term 1 - C16,In Air,2020-07-24 13:10:00,2020-07-24 12:53:00
+Air New Zealand,9807,Toronto,Term 2 - F9,In Air,2020-07-24 13:10:00,2020-07-24 12:30:00
+Air New Zealand,2202,Columbus| OH,Term 1 - C23,In Air,2020-07-24 13:11:00,2020-07-24 12:35:00
+Air Canada,3041,Milwaukee| WI,Term 2 - F5,In Air,2020-07-24 13:11:00,2020-07-24 12:44:00
+United Airlines,4422,Louisville| KY,Term 2 - F4,In Air,2020-07-24 13:11:00,2020-07-24 12:44:00
+All Nippon Airways,7423,Columbus| OH,Term 1 - C23,In Air,2020-07-24 13:11:00,2020-07-24 12:35:00
+Scandinavian Airlines,8860,Columbus| OH,Term 1 - C23,In Air,2020-07-24 13:11:00,2020-07-24 12:35:00
+Lufthansa,9133,Louisville| KY,Term 2 - F4,In Air,2020-07-24 13:11:00,2020-07-24 12:44:00
+United Airlines,708,Seattle| WA,Term 1 - B12,In Air,2020-07-24 13:12:00,2020-07-24 12:41:00
+LOT Polish Airlines,4374,Los Angeles| CA,Term 1 - B5,In Air,2020-07-24 13:12:00,2020-07-24 12:35:00
+Air Canada,5030,Los Angeles| CA,Term 1 - B5,In Air,2020-07-24 13:12:00,2020-07-24 12:35:00
+Aer Lingus,6241,Seattle| WA,Term 1 - B12,In Air,2020-07-24 13:12:00,2020-07-24 12:41:00
+Lufthansa,7505,Seattle| WA,Term 1 - B12,In Air,2020-07-24 13:12:00,2020-07-24 12:41:00
+Austrian Airlines,7704,Seattle| WA,Term 1 - B12,In Air,2020-07-24 13:12:00,2020-07-24 12:41:00
+Scandinavian Airlines,8762,Seattle| WA,Term 1 - B12,In Air,2020-07-24 13:12:00,2020-07-24 12:41:00
+United Airlines,5144,Decatur| IL,Term 2 - F20,Cancelled,2020-07-24 13:14:00,
+American Airlines,2285,Orange County| CA,Term T3 - K10,In Air,2020-07-24 13:15:00,2020-07-24 12:46:00
+Alaska Airlines,4483,Orange County| CA,Term T3 - K10,In Air,2020-07-24 13:15:00,2020-07-24 12:46:00
+United Airlines,5080,Eau Claire| WI,Term 2 - E10,In Air,2020-07-24 13:15:00,2020-07-24 12:44:00
+British Airways,5426,Orange County| CA,Term T3 - K10,In Air,2020-07-24 13:15:00,2020-07-24 12:46:00
+WestJet Airlines,6532,New York| NY,Term 2 - E15,In Air,2020-07-24 13:15:00,2020-07-24 12:35:00
+Lufthansa,8871,San Antonio| TX,Term 2,Cancelled,2020-07-24 13:15:00,
+Air New Zealand,2072,Nashville| TN,Term 1 - B21,In Air,2020-07-24 13:16:00,2020-07-24 12:52:00
+Scandinavian Airlines,3970,Nashville| TN,Term 1 - B21,In Air,2020-07-24 13:16:00,2020-07-24 12:52:00
+United Airlines,5245,Nashville| TN,Term 1 - B21,In Air,2020-07-24 13:16:00,2020-07-24 12:52:00
+Air New Zealand,2086,Boston| MA,Term 1 - B20,In Air,2020-07-24 13:17:00,2020-07-24 12:37:00
+Air Canada,5391,Detroit| MI,Term 1 - B3,In Air,2020-07-24 13:17:00,2020-07-24 12:49:00
+United Airlines,5721,Boston| MA,Term 1 - B20,In Air,2020-07-24 13:17:00,2020-07-24 12:37:00
+All Nippon Airways,7349,Detroit| MI,Term 1 - B3,In Air,2020-07-24 13:17:00,2020-07-24 12:49:00
+Austrian Airlines,7722,Detroit| MI,Term 1 - B3,In Air,2020-07-24 13:17:00,2020-07-24 12:49:00
+Scandinavian Airlines,8830,Detroit| MI,Term 1 - B3,In Air,2020-07-24 13:17:00,2020-07-24 12:49:00
+United Airlines,5138,Paducah| KY,Term 2 - E8,In Air,2020-07-24 13:18:00,2020-07-24 12:48:00
+United Airlines,3446,Washington| DC,Term 1 - C31,In Air,2020-07-24 13:19:00,2020-07-24 12:35:00
+LOT Polish Airlines,4410,San Francisco| CA,Term 1 - C17,In Air,2020-07-24 13:20:00,2020-07-24 12:46:00
+United Airlines,5230,Lincoln| NE,Term 1 - B24,In Air,2020-07-24 13:20:00,2020-07-24 12:52:00
+Aer Lingus,6224,San Francisco| CA,Term 1 - C17,In Air,2020-07-24 13:20:00,2020-07-24 12:46:00
+Lufthansa,7759,Lincoln| NE,Term 1 - B24,In Air,2020-07-24 13:20:00,2020-07-24 12:52:00
+Scandinavian Airlines,8820,San Francisco| CA,Term 1 - C17,In Air,2020-07-24 13:20:00,2020-07-24 12:46:00
+American Airlines,3643,Sioux City| IA,Term T3 - G1A,In Air,2020-07-24 13:34:00,2020-07-24 13:02:00
+All Nippon Airways,7006,Tokyo,Term 5 - M11,In Air,2020-07-24 13:40:00,2020-07-24 13:04:00
+SriLankan Airlines,3170,Doha,Term 5,In Air,2020-07-24 13:45:00,2020-07-24 13:29:00
+Qatar Airways,2936,Baltimore| MD,Term T3 - K2,In Air,2020-07-24 13:51:00,2020-07-24 13:09:00
+Alaska Airlines,4649,Baltimore| MD,Term T3 - K2,In Air,2020-07-24 13:51:00,2020-07-24 13:09:00
+Gulf Air,4302,Jacksonville| FL,Term T3 - L10C,In Air,2020-07-24 13:52:00,2020-07-24 13:18:00
+Qatar Airways,7624,Jacksonville| FL,Term T3 - L10C,In Air,2020-07-24 13:52:00,2020-07-24 13:18:00
+Alaska Airlines,4293,Washington| DC,Term T3 - K20,In Air,2020-07-24 13:53:00,2020-07-24 13:07:00
+American Airlines,3276,Grand Rapids| MI,Term T3 - G19A,Delayed,2020-07-24 13:54:00,2020-07-24 15:33:00
+British Airways,6796,Grand Rapids| MI,Term T3 - G19A,Delayed,2020-07-24 13:54:00,2020-07-24 15:33:00
+American Airlines,4167,White Plains| NY,Term T3 - L6A,In Air,2020-07-24 13:58:00,2020-07-24 13:18:00
+Qatar Airways,7726,White Plains| NY,Term T3 - L6A,In Air,2020-07-24 13:58:00,2020-07-24 13:18:00
+American Airlines,4182,Marquette| MI,Term T3 - G11,Scheduled,2020-07-24 13:59:00,2020-07-24 14:09:00
+British Airways,5285,Columbus| OH,Term T3 - G14A,Scheduled,2020-07-24 13:59:00,2020-07-24 14:02:00
+Qatar Airways,7828,Waterloo| IA,Term T3 - L1A,Scheduled,2020-07-24 13:59:00,2020-07-24 14:02:00
+American Airlines,3801,El Paso| TX,Term T3 - K3,In Air,2020-07-24 14:00:00,2020-07-24 13:31:00
+Qatar Airways,2425,Las Vegas| NV,Term T3 - H11A,In Air,2020-07-24 14:02:00,2020-07-24 13:26:00
+Gulf Air,6612,Las Vegas| NV,Term T3 - H11A,In Air,2020-07-24 14:02:00,2020-07-24 13:26:00
+American Airlines,4522,Fayetteville/Springdale/| AR,Term T3 - L4,Departed,2020-07-24 14:03:00,2020-07-24 14:01:00
+Qatar Airways,7623,Fayetteville/Springdale/| AR,Term T3 - L4,Departed,2020-07-24 14:03:00,2020-07-24 14:01:00
+British Airways,1757,Nashville| TN,Term T3 - G19A,In Air,2020-07-24 14:04:00,2020-07-24 13:29:00
+Qatar Airways,2782,Denver| CO,Term T3 - K4,In Air,2020-07-24 14:04:00,2020-07-24 14:00:00
+American Airlines,3100,Nashville| TN,Term T3 - G19A,In Air,2020-07-24 14:04:00,2020-07-24 13:29:00
+Virgin Atlantic,4410,Salt Lake City| UT,Term 2 - E14,In Air,2020-07-24 14:04:00,2020-07-24 13:40:00
+Gulf Air,6858,Denver| CO,Term T3 - K4,In Air,2020-07-24 14:04:00,2020-07-24 14:00:00
+AeroMexico,686,Mexico City,Term 5,In Air,2020-07-24 14:05:00,2020-07-24 13:20:00
+Qatar Airways,2728,Philadelphia| PA,Term T3 - K9,In Air,2020-07-24 14:05:00,2020-07-24 13:19:00
+American Airlines,3296,Kansas City| MO,Term T3 - G13,Departed,2020-07-24 14:06:00,2020-07-24 13:55:00
+British Airways,5062,Kansas City| MO,Term T3 - G13,Departed,2020-07-24 14:06:00,2020-07-24 13:55:00
+Alaska Airlines,4618,Omaha| NE,Term T3 - L21,Departed,2020-07-24 14:07:00,2020-07-24 14:01:00
+Gulf Air,6738,Omaha| NE,Term T3 - L21,Departed,2020-07-24 14:07:00,2020-07-24 14:01:00
+American Airlines,3248,St Louis| MO,Term T3 - G5,Scheduled,2020-07-24 14:08:00,2020-07-24 14:08:00
+British Airways,4681,St Louis| MO,Term T3 - G5,Scheduled,2020-07-24 14:08:00,2020-07-24 14:08:00
+American Airlines,1049,Seattle| WA,Term T3 - H10,In Air,2020-07-24 14:09:00,2020-07-24 13:36:00
+Qatar Airways,2870,San Jose| CA,Term T3 - H8,In Air,2020-07-24 14:09:00,2020-07-24 13:33:00
+Alaska Airlines,4552,Moline| IL,Term T3 - H2,Scheduled,2020-07-24 14:09:00,2020-07-24 14:16:00
+Gulf Air,6660,Seattle| WA,Term T3 - H10,In Air,2020-07-24 14:09:00,2020-07-24 13:36:00
+British Airways,6697,San Jose| CA,Term T3 - H8,In Air,2020-07-24 14:09:00,2020-07-24 13:33:00
+Malaysia Airlines,9388,Seattle| WA,Term T3 - H10,In Air,2020-07-24 14:09:00,2020-07-24 13:36:00
+American Airlines,956,San Diego| CA,Term T3 - K12,In Air,2020-07-24 14:10:00,2020-07-24 13:31:00
+Alaska Airlines,4605,Memphis| TN,Term T3 - L8,Departed,2020-07-24 14:10:00,2020-07-24 13:57:00
+Gulf Air,6839,San Diego| CA,Term T3 - K12,In Air,2020-07-24 14:10:00,2020-07-24 13:31:00
+Qatar Airways,7574,Memphis| TN,Term T3 - L8,Departed,2020-07-24 14:10:00,2020-07-24 13:57:00
+American Airlines,2667,Raleigh/Durham| NC,Term T3 - H11B,In Air,2020-07-24 14:12:00,2020-07-24 13:41:00
+Alaska Airlines,4399,Raleigh/Durham| NC,Term T3 - H11B,In Air,2020-07-24 14:12:00,2020-07-24 13:41:00
+Qatar Airways,7910,Portland| ME,Term T3 - H4,In Air,2020-07-24 14:12:00,2020-07-24 13:46:00
+Alaska Airlines,4088,Richmond| VA,Term T3 - L1B,In Air,2020-07-24 14:13:00,2020-07-24 13:46:00
+Qatar Airways,7563,Richmond| VA,Term T3 - L1B,In Air,2020-07-24 14:13:00,2020-07-24 13:46:00
+Alaska Airlines,4305,Charlotte| NC,Term T3 - H14,In Air,2020-07-24 14:14:00,2020-07-24 13:38:00
+Gulf Air,6498,Charlotte| NC,Term T3 - H14,In Air,2020-07-24 14:14:00,2020-07-24 13:38:00
+American Airlines,4236,Dayton| OH,Term T3 - G8,Scheduled,2020-07-24 14:15:00,2020-07-24 14:14:00
+Alaska Airlines,4586,Dayton| OH,Term T3 - G8,Scheduled,2020-07-24 14:15:00,2020-07-24 14:14:00
+British Airways,6794,Traverse City| MI,Term T3 - G20,Scheduled,2020-07-24 14:15:00,2020-07-24 14:16:00
+Qatar Airways,7642,Dayton| OH,Term T3 - G8,Scheduled,2020-07-24 14:15:00,2020-07-24 14:14:00
+Qatar Airways,7846,Wilmington| NC,Term T3 - L22,Delayed,2020-07-24 14:17:00,2020-07-24 15:25:00
+American Airlines,3850,La Crosse| WI,Term T3 - H1A,Scheduled,2020-07-24 14:19:00,2020-07-24 14:24:00
+Alaska Airlines,4211,Des Moines| IA,Term T3 - G19,Scheduled,2020-07-24 14:19:00,2020-07-24 14:19:00
+British Airways,4734,Des Moines| IA,Term T3 - G19,Scheduled,2020-07-24 14:19:00,2020-07-24 14:19:00
+Gulf Air,6730,Tulsa| OK,Term T3 - L2A,Departed,2020-07-24 14:19:00,2020-07-24 14:12:00
+Qatar Airways,7814,La Crosse| WI,Term T3 - H1A,Scheduled,2020-07-24 14:19:00,2020-07-24 14:24:00
+American Airlines,4126,Fargo| ND,Term T3 - G11,Delayed,2020-07-24 14:20:00,2020-07-24 16:31:00
+Gulf Air,4223,Portland| OR,Term T3 - K18,In Air,2020-07-24 14:20:00,2020-07-24 13:52:00
+British Airways,6632,Wichita| KS,Term T3 - L3,Departed,2020-07-24 14:20:00,2020-07-24 14:14:00
+Qatar Airways,7875,Springfield| MO,Term T3 - G12,Scheduled,2020-07-24 14:20:00,2020-07-24 14:25:00
+Cargolux Airlines,9765,Zhengzhou, ,LandedDiversion,2020-07-24 14:20:00,
+Volaris,2196,Miami| FL,Term 5 - M2,In Air,2020-07-24 14:24:00,2020-07-24 13:52:00
+American Airlines,1258,Dallas-Fort Worth| TX,Term T3 - K13,Departed,2020-07-24 14:46:00,2020-07-24 14:39:00
+Frontier Airlines,1152,Orlando| FL,Term 5 - M1,In Air,2020-07-24 14:53:00,2020-07-24 14:11:00
+All Nippon Airways,12,Tokyo,Term 5,In Air,2020-07-24 14:55:00,2020-07-24 14:49:00
+British Airways,6143,Dublin,Term 5,In Air,2020-07-24 14:55:00,2020-07-24 13:52:00
+United Airlines,7926,Tokyo,Term 5,In Air,2020-07-24 14:55:00,2020-07-24 14:49:00
+CK,233,Atlanta| GA, ,Scheduled,2020-07-24 15:10:00,
+SWISS,3249,Denver| CO,Term 1 - C23,Scheduled,2020-07-24 15:10:00,2020-07-24 15:01:00
+Air Canada,5768,Denver| CO,Term 1 - C23,Scheduled,2020-07-24 15:10:00,2020-07-24 15:01:00
+Lufthansa,7465,Denver| CO,Term 1 - C23,Scheduled,2020-07-24 15:10:00,2020-07-24 15:01:00
+Austrian Airlines,7734,Denver| CO,Term 1 - C23,Scheduled,2020-07-24 15:10:00,2020-07-24 15:01:00
+United Airlines,928,London,Term 5 - M16,In Air,2020-07-24 15:15:00,2020-07-24 14:10:00
+Air Canada,5363,London,Term 5 - M16,In Air,2020-07-24 15:15:00,2020-07-24 14:10:00
+Brussels Airlines,9087,London,Term 5 - M16,In Air,2020-07-24 15:15:00,2020-07-24 14:10:00
+American Airlines,2601,Philadelphia| PA,Term T3 - H9,Scheduled,2020-07-24 15:17:00,2020-07-24 15:05:00
+Qantas Airways,3001,Los Angeles| CA,Term T3 - K10,In Air,2020-07-24 15:17:00,2020-07-24 14:54:00
+British Airways,4342,Los Angeles| CA,Term T3 - K10,In Air,2020-07-24 15:17:00,2020-07-24 14:54:00
+Japan Airlines,7522,Los Angeles| CA,Term T3 - K10,In Air,2020-07-24 15:17:00,2020-07-24 14:54:00
+Spirit Airlines,176,Austin| TX,Term 3 - L11,Scheduled,2020-07-24 15:19:00,2020-07-24 15:27:00
+United Airlines,2783,Zurich,Term 1 - C10,In Air,2020-07-24 15:20:00,2020-07-24 14:44:00
+Singapore Airlines,1354,San Francisco| CA,Term 3 - G4,In Air,2020-07-24 15:30:00,2020-07-24 15:09:00
+American Airlines,2429,Dallas-Fort Worth| TX,Term T3 - K16,Scheduled,2020-07-24 15:45:00,2020-07-24 15:40:00
+Korean Air,3039,Seattle| WA,Term 2 - E11,In Air,2020-07-24 15:45:00,2020-07-24 15:30:00
+American Airlines,1092,Washington| DC,Term T3 - K9,Scheduled,2020-07-24 15:50:00,2020-07-24 15:38:00
+British Airways,4824,Washington| DC,Term T3 - K9,Scheduled,2020-07-24 15:50:00,2020-07-24 15:38:00
+Qatar Airways,2445,Charlotte| NC,Term T3 - K19,Scheduled,2020-07-24 15:55:00,2020-07-24 15:55:00
+Spirit Airlines,2873,Denver| CO,Term 3 - L7,Scheduled,2020-07-24 15:56:00,2020-07-24 15:47:00
+American Airlines,1398,Fort Myers| FL,Term T3 - H16,Scheduled,2020-07-24 16:06:00,2020-07-24 16:03:00
+American Airlines,295,New York| NY,Term T3 - K8,Scheduled,2020-07-24 16:10:00,2020-07-24 16:06:00
+Alaska Airlines,4004,New York| NY,Term T3 - K8,Scheduled,2020-07-24 16:10:00,2020-07-24 16:06:00
+Cape Air,1155,Quincy| IL,Term 3,Scheduled,2020-07-24 16:11:00,
+Sun Country Airlines,261,Minneapolis| MN,Term 5,Scheduled,2020-07-24 16:21:00,
+Air Canada,3585,Des Moines| IA,Term 1 - B22,Scheduled,2020-07-24 16:25:00,2020-07-24 16:25:00
+Virgin Atlantic,4412,Minneapolis| MN,Term 2 - E17,Scheduled,2020-07-24 16:25:00,2020-07-24 16:25:00
+Aer Lingus,6529,Des Moines| IA,Term 1 - B22,Scheduled,2020-07-24 16:25:00,2020-07-24 16:25:00
+All Nippon Airways,7207,Des Moines| IA,Term 1 - B22,Scheduled,2020-07-24 16:25:00,2020-07-24 16:25:00
+Scandinavian Airlines,8866,Des Moines| IA,Term 1 - B22,Scheduled,2020-07-24 16:25:00,2020-07-24 16:25:00
+United Airlines,5113,Muskegon| MI,Term 2 - E5,Scheduled,2020-07-24 16:26:00,2020-07-24 16:26:00
+Air Canada,3036,Milwaukee| WI,Term 2 - F18,Scheduled,2020-07-24 16:27:00,2020-07-24 16:27:00
+All Nippon Airways,7125,Milwaukee| WI,Term 2 - F18,Scheduled,2020-07-24 16:27:00,2020-07-24 16:27:00
+Lufthansa,7829,Jackson| WY,Term 1 - C24,Scheduled,2020-07-24 16:28:00,2020-07-24 16:16:00
+Air New Zealand,2346,Newark| NJ,Term 1 - B8,Scheduled,2020-07-24 16:30:00,2020-07-24 16:08:00
+Scandinavian Airlines,6862,Newark| NJ,Term 1 - B8,Scheduled,2020-07-24 16:30:00,2020-07-24 16:08:00
+All Nippon Airways,7569,Newark| NJ,Term 1 - B8,Scheduled,2020-07-24 16:30:00,2020-07-24 16:08:00
+United Airlines,3637,Washington| DC,Term 1 - C8,Scheduled,2020-07-24 16:31:00,2020-07-24 16:31:00
+South African Airways,7414,Washington| DC,Term 1 - C8,Scheduled,2020-07-24 16:31:00,2020-07-24 16:31:00
+Air New Zealand,2896,St Louis| MO,Term 2 - F25,Scheduled,2020-07-24 16:33:00,2020-07-24 16:33:00
+Air Canada,4929,St Louis| MO,Term 2 - F25,Scheduled,2020-07-24 16:33:00,2020-07-24 16:33:00
+All Nippon Airways,7451,St Louis| MO,Term 2 - F25,Scheduled,2020-07-24 16:33:00,2020-07-24 16:33:00
+American Airlines,2025,Jackson| WY,Term T3 - H11A,Scheduled,2020-07-24 16:34:00,2020-07-24 16:34:00
+SWISS,3289,Denver| CO,Term 1 - B7,Scheduled,2020-07-24 16:35:00,2020-07-24 16:30:00
+LOT Polish Airlines,4348,Denver| CO,Term 1 - B7,Scheduled,2020-07-24 16:35:00,2020-07-24 16:30:00
+United Airlines,5343,Minneapolis| MN,Term 1 - B9,Scheduled,2020-07-24 16:35:00,2020-07-24 16:35:00
+Air Canada,5780,Denver| CO,Term 1 - B7,Scheduled,2020-07-24 16:35:00,2020-07-24 16:30:00
+Aer Lingus,6336,Minneapolis| MN,Term 1 - B9,Scheduled,2020-07-24 16:35:00,2020-07-24 16:35:00
+Lufthansa,7521,Denver| CO,Term 1 - B7,Scheduled,2020-07-24 16:35:00,2020-07-24 16:30:00
+Scandinavian Airlines,8854,Minneapolis| MN,Term 1 - B9,Scheduled,2020-07-24 16:35:00,2020-07-24 16:35:00
+United Airlines,3822,Appleton| WI,Term 2 - F12,Scheduled,2020-07-24 16:36:00,2020-07-24 16:36:00
+United Airlines,5662,Springfield| MO,Term 2 - E10,Scheduled,2020-07-24 16:37:00,2020-07-24 16:37:00
+Lufthansa,7947,Springfield| MO,Term 2 - E10,Scheduled,2020-07-24 16:37:00,2020-07-24 16:37:00
+Air Canada,5523,Austin| TX,Term 1 - C7,Scheduled,2020-07-24 16:38:00,2020-07-24 16:38:00
+Lufthansa,8743,Austin| TX,Term 1 - C7,Scheduled,2020-07-24 16:38:00,2020-07-24 16:38:00
+United Airlines,3536,Moline| IL,Term 1 - C4,Scheduled,2020-07-24 16:39:00,2020-07-24 16:39:00
+Delta Air Lines,1894,Atlanta| GA,Term 2 - E14,Scheduled,2020-07-24 16:40:00,2020-07-24 16:30:00
+United Airlines,2362,Los Angeles| CA,Term 1 - C9,Scheduled,2020-07-24 16:40:00,2020-07-24 16:34:00
+EVA Airways,3020,Los Angeles| CA,Term 1 - C9,Scheduled,2020-07-24 16:40:00,2020-07-24 16:34:00
+AeroMexico,3223,Atlanta| GA,Term 2 - E14,Scheduled,2020-07-24 16:40:00,2020-07-24 16:30:00
+LOT Polish Airlines,4372,Los Angeles| CA,Term 1 - C9,Scheduled,2020-07-24 16:40:00,2020-07-24 16:34:00
+Air Canada,5548,Los Angeles| CA,Term 1 - C9,Scheduled,2020-07-24 16:40:00,2020-07-24 16:34:00
+Aer Lingus,6162,Los Angeles| CA,Term 1 - C9,Scheduled,2020-07-24 16:40:00,2020-07-24 16:34:00
+WestJet Airlines,6533,New York| NY,Term 2 - E15,Scheduled,2020-07-24 16:40:00,2020-07-24 16:20:00
+Lufthansa,9240,Los Angeles| CA,Term 1 - C9,Scheduled,2020-07-24 16:40:00,2020-07-24 16:34:00
+Scandinavian Airlines,9818,Orlando| FL,Term 1 - B10,Scheduled,2020-07-24 16:40:00,2020-07-24 16:30:00
+Aer Lingus,6819,Sioux Falls| SD,Term 2 - E8,Scheduled,2020-07-24 16:41:00,2020-07-24 16:41:00
+Air New Zealand,2274,Washington| DC,Term 1 - C30,Scheduled,2020-07-24 16:42:00,2020-07-24 16:42:00
+United Airlines,5841,Washington| DC,Term 1 - C30,Scheduled,2020-07-24 16:42:00,2020-07-24 16:42:00
+Air New Zealand,2076,Nashville| TN,Term 1 - B20,Scheduled,2020-07-24 16:43:00,2020-07-24 16:43:00
+United Airlines,5228,Nashville| TN,Term 1 - B20,Scheduled,2020-07-24 16:43:00,2020-07-24 16:43:00
+United Airlines,3641,Fayetteville/Springdale/| AR,Term 1 - C5,Scheduled,2020-07-24 16:45:00,2020-07-24 16:45:00
+Air Canada,5185,Dallas-Fort Worth| TX,Term 1 - B11,Scheduled,2020-07-24 16:45:00,2020-07-24 16:27:00
+Aer Lingus,6041,Dallas-Fort Worth| TX,Term 1 - B11,Scheduled,2020-07-24 16:45:00,2020-07-24 16:27:00
+All Nippon Airways,7603,Dallas-Fort Worth| TX,Term 1 - B11,Scheduled,2020-07-24 16:45:00,2020-07-24 16:27:00
+Lufthansa,9163,Boise| ID,Term 1 - B1,Scheduled,2020-07-24 16:45:00,2020-07-24 16:54:00
+United Airlines,4401,Little Rock| AR,Term 2 - F17,Scheduled,2020-07-24 16:46:00,2020-07-24 16:46:00
+Lufthansa,7657,Little Rock| AR,Term 2 - F17,Scheduled,2020-07-24 16:46:00,2020-07-24 16:46:00
+American Airlines,4048,Traverse City| MI,Term T3 - G10,Scheduled,2020-07-24 16:47:00,2020-07-24 16:47:00
+Qatar Airways,7742,Traverse City| MI,Term T3 - G10,Scheduled,2020-07-24 16:47:00,2020-07-24 16:47:00
+United Airlines,5284,San Antonio| TX,Term 2 - E12,Scheduled,2020-07-24 16:48:00,2020-07-24 16:48:00
+Aer Lingus,6676,San Antonio| TX,Term 2 - E12,Scheduled,2020-07-24 16:48:00,2020-07-24 16:48:00
+Air New Zealand,2406,Grand Rapids| MI,Term 2 - F19,Scheduled,2020-07-24 16:49:00,2020-07-24 16:49:00
+Air Canada,3007,Philadelphia| PA,Term 1 - B6,Scheduled,2020-07-24 16:49:00,2020-07-24 16:49:00
+United Airlines,5731,Philadelphia| PA,Term 1 - B6,Scheduled,2020-07-24 16:49:00,2020-07-24 16:49:00
+All Nippon Airways,7081,Grand Rapids| MI,Term 2 - F19,Scheduled,2020-07-24 16:49:00,2020-07-24 16:49:00
+Scandinavian Airlines,8784,Philadelphia| PA,Term 1 - B6,Scheduled,2020-07-24 16:49:00,2020-07-24 16:49:00
+Alaska Airlines,696,Portland| OR,Term 3 - G6,Scheduled,2020-07-24 16:50:00,2020-07-24 16:52:00
+Qatar Airways,2849,Cincinnati| OH,Term T3 - L21,Scheduled,2020-07-24 16:51:00,2020-07-24 16:51:00
+American Airlines,3396,Cincinnati| OH,Term T3 - L21,Scheduled,2020-07-24 16:51:00,2020-07-24 16:51:00
+LOT Polish Airlines,4406,Seattle| WA,Term 1 - C29,Scheduled,2020-07-24 16:51:00,2020-07-24 16:27:00
+Aer Lingus,6242,Seattle| WA,Term 1 - C29,Scheduled,2020-07-24 16:51:00,2020-07-24 16:27:00
+Turkish Airlines,8610,Seattle| WA,Term 1 - C29,Scheduled,2020-07-24 16:51:00,2020-07-24 16:27:00
+Air New Zealand,2714,Omaha| NE,Term 1 - B19,Scheduled,2020-07-24 16:52:00,2020-07-24 16:52:00
+United Airlines,5058,Springfield| IL,Term 2 - F9,Scheduled,2020-07-24 16:52:00,2020-07-24 16:52:00
+Aer Lingus,6360,Omaha| NE,Term 1 - B19,Scheduled,2020-07-24 16:52:00,2020-07-24 16:52:00
+Scandinavian Airlines,8758,Omaha| NE,Term 1 - B19,Scheduled,2020-07-24 16:52:00,2020-07-24 16:52:00
+United Airlines,3402,Cedar Rapids| IA,Term 1 - C6,Scheduled,2020-07-24 16:53:00,2020-07-24 16:53:00
+Scandinavian Airlines,3948,San Francisco| CA,Term 1 - C18,Scheduled,2020-07-24 16:53:00,2020-07-24 16:25:00
+Air Canada,5921,San Francisco| CA,Term 1 - C18,Scheduled,2020-07-24 16:53:00,2020-07-24 16:25:00
+Lufthansa,7727,San Francisco| CA,Term 1 - C18,Scheduled,2020-07-24 16:53:00,2020-07-24 16:25:00
+Air New Zealand,9301,San Francisco| CA,Term 1 - C18,Scheduled,2020-07-24 16:53:00,2020-07-24 16:25:00
+United Airlines,5720,Rapid City| SD,Term 1 - C31,Scheduled,2020-07-24 16:54:00,2020-07-24 16:54:00
+Air New Zealand,2702,Oklahoma City| OK,Term 1 - C27,Scheduled,2020-07-24 16:56:00,2020-07-24 16:56:00
+United Airlines,5572,Oklahoma City| OK,Term 1 - C27,Scheduled,2020-07-24 16:56:00,2020-07-24 16:56:00
+Lufthansa,7929,Oklahoma City| OK,Term 1 - C27,Scheduled,2020-07-24 16:56:00,2020-07-24 16:56:00
+Spirit Airlines,2855,Boston| MA,Term 3 - L9,Scheduled,2020-07-24 16:57:00,2020-07-24 16:49:00
+Air Canada,3625,New Orleans| LA,Term 1 - C22,Scheduled,2020-07-24 16:57:00,2020-07-24 16:57:00
+All Nippon Airways,7557,New Orleans| LA,Term 1 - C22,Scheduled,2020-07-24 16:57:00,2020-07-24 16:57:00
+United Airlines,3438,Madison| WI,Term 1 - C1,Scheduled,2020-07-24 16:58:00,2020-07-24 16:58:00
+All Nippon Airways,7533,Madison| WI,Term 1 - C1,Scheduled,2020-07-24 16:58:00,2020-07-24 16:58:00
+Lufthansa,8985,Madison| WI,Term 1 - C1,Scheduled,2020-07-24 16:58:00,2020-07-24 16:58:00
+American Airlines,4114,Sioux Falls| SD,Term T3 - G20,Scheduled,2020-07-24 17:00:00,2020-07-24 17:00:00
+United Airlines,5465,Lincoln| NE,Term 2 - F3,Scheduled,2020-07-24 17:00:00,2020-07-24 17:00:00
+Air Canada,5623,Salt Lake City| UT,Term 1 - B18,Scheduled,2020-07-24 17:00:00,2020-07-24 16:39:00
+Aer Lingus,6366,Salt Lake City| UT,Term 1 - B18,Scheduled,2020-07-24 17:00:00,2020-07-24 16:39:00
+Lufthansa,9025,Salt Lake City| UT,Term 1 - B18,Scheduled,2020-07-24 17:00:00,2020-07-24 16:39:00
+United Airlines,1069,Houston| TX,Term 1 - C19,Scheduled,2020-07-24 17:01:00,2020-07-24 16:49:00
+LOT Polish Airlines,4366,Houston| TX,Term 1 - C19,Scheduled,2020-07-24 17:01:00,2020-07-24 16:49:00
+Air New Zealand,6847,Houston| TX,Term 1 - C19,Scheduled,2020-07-24 17:01:00,2020-07-24 16:49:00
+Lufthansa,7495,Houston| TX,Term 1 - C19,Scheduled,2020-07-24 17:01:00,2020-07-24 16:49:00
+SWISS,3263,San Diego| CA,Term 1 - B12,Scheduled,2020-07-24 17:02:00,2020-07-24 16:40:00
+Air Canada,5320,San Diego| CA,Term 1 - B12,Scheduled,2020-07-24 17:02:00,2020-07-24 16:40:00
+Scandinavian Airlines,8824,San Diego| CA,Term 1 - B12,Scheduled,2020-07-24 17:02:00,2020-07-24 16:40:00
+United Airlines,606,Portland| OR,Term 1 - B14,Scheduled,2020-07-24 17:04:00,2020-07-24 16:48:00
+LOT Polish Airlines,4384,Portland| OR,Term 1 - B14,Scheduled,2020-07-24 17:04:00,2020-07-24 16:48:00
+Scandinavian Airlines,8734,Portland| OR,Term 1 - B14,Scheduled,2020-07-24 17:04:00,2020-07-24 16:48:00
+United Airlines,3587,Traverse City| MI,Term 1 - C2,Scheduled,2020-07-24 17:05:00,2020-07-24 17:05:00
+United Airlines,3421,Indianapolis| IN,Term 1 - C3,Scheduled,2020-07-24 17:07:00,2020-07-24 17:07:00
+Lufthansa,8801,Indianapolis| IN,Term 1 - C3,Scheduled,2020-07-24 17:07:00,2020-07-24 17:07:00
+Air Canada,4017,Tulsa| OK,Term 2 - F6,Scheduled,2020-07-24 17:08:00,2020-07-24 17:08:00
+Aer Lingus,6706,Tulsa| OK,Term 2 - F6,Scheduled,2020-07-24 17:08:00,2020-07-24 17:08:00
+SWISS,3259,Las Vegas| NV,Term 1 - C25,Scheduled,2020-07-24 17:10:00,2020-07-24 16:53:00
+United Airlines,3728,Columbia| MO,Term 2 - F28,Scheduled,2020-07-24 17:10:00,2020-07-24 17:10:00
+LOT Polish Airlines,4392,Phoenix| AZ,Term 1 - C17,Scheduled,2020-07-24 17:10:00,2020-07-24 16:53:00
+Air Canada,5270,Phoenix| AZ,Term 1 - C17,Scheduled,2020-07-24 17:10:00,2020-07-24 16:53:00
+Aer Lingus,6135,Phoenix| AZ,Term 1 - C17,Scheduled,2020-07-24 17:10:00,2020-07-24 16:53:00
+Turkish Airlines,8628,Las Vegas| NV,Term 1 - C25,Scheduled,2020-07-24 17:10:00,2020-07-24 16:53:00
+Scandinavian Airlines,8856,Phoenix| AZ,Term 1 - C17,Scheduled,2020-07-24 17:10:00,2020-07-24 16:53:00
+Lufthansa,9395,Phoenix| AZ,Term 1 - C17,Scheduled,2020-07-24 17:10:00,2020-07-24 16:53:00
+Qatar Airways,7573,Rochester| MN,Term T3 - H2,Scheduled,2020-07-24 17:17:00,2020-07-24 17:17:00
+American Airlines,4485,Detroit| MI,Term T3 - K3,Scheduled,2020-07-24 17:18:00,2020-07-24 17:18:00
+British Airways,5412,Detroit| MI,Term T3 - K3,Scheduled,2020-07-24 17:18:00,2020-07-24 17:18:00
+American Airlines,3138,Aspen| CO,Term T3 - G18,Scheduled,2020-07-24 17:19:00,2020-07-24 17:19:00
+Alaska Airlines,4601,Kansas City| MO,Term T3 - L10B,Scheduled,2020-07-24 17:19:00,2020-07-24 17:19:00
+Qatar Airways,7756,Aspen| CO,Term T3 - G18,Scheduled,2020-07-24 17:19:00,2020-07-24 17:19:00
+American Airlines,3453,San Antonio| TX,Term T3 - L6B,Scheduled,2020-07-24 17:21:00,2020-07-24 17:21:00
+Alaska Airlines,4015,San Antonio| TX,Term T3 - L6B,Scheduled,2020-07-24 17:21:00,2020-07-24 17:21:00
+British Airways,6610,San Antonio| TX,Term T3 - L6B,Scheduled,2020-07-24 17:21:00,2020-07-24 17:21:00
+Hawaiian Airlines,2205,Boston| MA,Term 3 - G2,Scheduled,2020-07-24 17:22:00,2020-07-24 17:18:00
+American Airlines,3382,Bloomington/Normal| IL,Term T3 - K2,Scheduled,2020-07-24 17:23:00,2020-07-24 17:23:00
+British Airways,2387,Cedar Rapids| IA,Term T3 - G19A,Scheduled,2020-07-24 17:24:00,2020-07-24 17:24:00
+American Airlines,3086,Cedar Rapids| IA,Term T3 - G19A,Scheduled,2020-07-24 17:24:00,2020-07-24 17:24:00
+Alaska Airlines,4588,Cedar Rapids| IA,Term T3 - G19A,Scheduled,2020-07-24 17:24:00,2020-07-24 17:24:00
+Qatar Airways,7555,Cedar Rapids| IA,Term T3 - G19A,Scheduled,2020-07-24 17:24:00,2020-07-24 17:24:00
+American Airlines,3076,Madison| WI,Term T3 - G5,Scheduled,2020-07-24 17:25:00,2020-07-24 17:25:00
+British Airways,4435,Madison| WI,Term T3 - G5,Scheduled,2020-07-24 17:25:00,2020-07-24 17:25:00
+American Airlines,4251,Sioux City| IA,Term T3 - G12,Scheduled,2020-07-24 17:26:00,2020-07-24 17:26:00
+Qatar Airways,7867,Sioux City| IA,Term T3 - G12,Scheduled,2020-07-24 17:26:00,2020-07-24 17:26:00
+Alaska Airlines,4793,Omaha| NE,Term T3 - L2C,Scheduled,2020-07-24 17:28:00,2020-07-24 17:28:00
+Qatar Airways,7579,Omaha| NE,Term T3 - L2C,Scheduled,2020-07-24 17:28:00,2020-07-24 17:28:00
+American Airlines,2219,San Diego| CA,Term T3 - H11B,Scheduled,2020-07-24 17:34:00,2020-07-24 17:32:00
+Alaska Airlines,4525,Orange County| CA,Term T3 - K4,Scheduled,2020-07-24 17:34:00,2020-07-24 17:33:00
+Qatar Airways,7705,Orange County| CA,Term T3 - K4,Scheduled,2020-07-24 17:34:00,2020-07-24 17:33:00
+American Airlines,883,Phoenix| AZ,Term T3 - H6,Arrived,2020-07-24 21:53:00,2020-07-24 22:40:00
+Qatar Airways,8141,Atlanta| GA, ,Delayed,2020-07-24 22:50:00,2020-07-25 00:21:00
+Qatar Airways,2386,Dallas-Fort Worth| TX,Term T3 - K13,Arrived,2020-07-24 22:54:00,2020-07-24 22:38:00
+AeroMexico,3041,Atlanta| GA,Term 2 - E16,Arrived,2020-07-24 22:55:00,2020-07-24 22:34:00
+WestJet Airlines,6359,Atlanta| GA,Term 2 - E16,Arrived,2020-07-24 22:55:00,2020-07-24 22:34:00
+Alaska Airlines,26,Seattle| WA,Term 3 - G4,In Air,2020-07-24 23:15:00,2020-07-24 23:50:00
+Air Canada,5126,Denver| CO,Term 1 - B14,Arrived,2020-07-24 23:15:00,2020-07-24 23:02:00
+Air Canada,5149,Los Angeles| CA,Term 1 - C26,Arrived,2020-07-24 23:20:00,2020-07-24 23:12:00
+All Nippon Airways,7234,Los Angeles| CA,Term 1 - C26,Arrived,2020-07-24 23:20:00,2020-07-24 23:12:00
+Air New Zealand,9667,Los Angeles| CA,Term 1 - C26,Arrived,2020-07-24 23:20:00,2020-07-24 23:12:00
+Frontier Airlines,410,Denver| CO,Term 5 - M1,In Air,2020-07-24 23:39:00,2020-07-25 00:10:00
+Air Tahiti Nui,1328,Los Angeles| CA,Term T3 - H12,Arrived,2020-07-24 23:41:00,2020-07-24 23:20:00
+Qantas Airways,3159,Los Angeles| CA,Term T3 - H12,Arrived,2020-07-24 23:41:00,2020-07-24 23:20:00
+Malaysia Airlines,9400,Los Angeles| CA,Term T3 - H12,Arrived,2020-07-24 23:41:00,2020-07-24 23:20:00
+Spirit Airlines,186,Dallas-Fort Worth| TX,Term 3 - L5,Landed,2020-07-24 23:49:00,2020-07-24 23:32:00
+Frontier Airlines,1483,Newark| NJ,Term 5 - M2,Arrived,2020-07-25 00:09:00,2020-07-24 23:18:00
+Air Canada,5390,San Francisco| CA,Term 1 - C17,In Air,2020-07-25 00:30:00,2020-07-25 00:14:00
+All Nippon Airways,7242,San Francisco| CA,Term 1 - C17,In Air,2020-07-25 00:30:00,2020-07-25 00:14:00
+Air New Zealand,9304,San Francisco| CA,Term 1 - C17,In Air,2020-07-25 00:30:00,2020-07-25 00:14:00
+Alaska Airlines,4491,Miami| FL,Term T3 - K1,In Air,2020-07-25 00:38:00,2020-07-25 00:10:00
+Nippon Cargo,134,Anchorage| AK, ,Landed,2020-07-24 22:50:00,2020-07-24 22:27:00
+American Airlines,1294,Dallas-Fort Worth| TX,Term T3 - K13,Arrived,2020-07-24 22:54:00,2020-07-24 22:38:00
+Delta Air Lines,762,Atlanta| GA,Term 2 - E16,Arrived,2020-07-24 22:55:00,2020-07-24 22:34:00
+KLM Royal Dutch Airlines,5316,Atlanta| GA,Term 2 - E16,Arrived,2020-07-24 22:55:00,2020-07-24 22:34:00
+Cathay Pacific,3290,Anchorage| AK, ,No Recent Info - Call Airline,2020-07-24 23:10:00,
+United Airlines,306,Denver| CO,Term 1 - B14,Arrived,2020-07-24 23:15:00,2020-07-24 23:02:00
+United Airlines,500,Los Angeles| CA,Term 1 - C26,Arrived,2020-07-24 23:20:00,2020-07-24 23:12:00
+Asiana Airlines,6270,Los Angeles| CA,Term 1 - C26,Arrived,2020-07-24 23:20:00,2020-07-24 23:12:00
+Air China,7277,Los Angeles| CA,Term 1 - C26,Arrived,2020-07-24 23:20:00,2020-07-24 23:12:00
+China Airlines,5236,Anchorage| AK, ,No Recent Info - Call Airline,2020-07-24 23:30:00,
+Volaris,2137,Denver| CO,Term 5 - M1,In Air,2020-07-24 23:39:00,2020-07-25 00:10:00
+American Airlines,2883,Los Angeles| CA,Term T3 - H12,Arrived,2020-07-24 23:41:00,2020-07-24 23:20:00
+British Airways,4353,Los Angeles| CA,Term T3 - H12,Arrived,2020-07-24 23:41:00,2020-07-24 23:20:00
+Korean Air,261,Anchorage| AK, ,No Recent Info - Call Airline,2020-07-24 23:45:00,
+Asiana Airlines,248,Anchorage| AK, ,No Recent Info - Call Airline,2020-07-24 23:59:00,
+United Airlines,2054,San Francisco| CA,Term 1 - C17,In Air,2020-07-25 00:30:00,2020-07-25 00:14:00
+Asiana Airlines,6303,San Francisco| CA,Term 1 - C17,In Air,2020-07-25 00:30:00,2020-07-25 00:14:00
+Air China,7326,San Francisco| CA,Term 1 - C17,In Air,2020-07-25 00:30:00,2020-07-25 00:14:00
+American Airlines,2179,Miami| FL,Term T3 - K1,In Air,2020-07-25 00:38:00,2020-07-25 00:10:00
+Air China,1011,Anchorage| AK, ,No Recent Info - Call Airline,2020-07-25 03:40:00,
